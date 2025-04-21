@@ -1,0 +1,5 @@
+tool_name,tool_description,head,api_call_logical,embedding,similarity
+Advanced Movie Search,"Search for movies via advanced queries like genre, name, etc. And get all their details",advanced-movie-search.p.rapidapi.com,,"[-0.03896876  0.03584856 -0.01924868 ... -0.01028093  0.01181858
+ -0.03178558]",0.6194558038719822
+OTT Details,"OTT Details is a tool that provides access to a vast database of movies and TV shows from over 150 streaming platforms, with support for over 25 genres and 320 languages. It offers updated content daily and includes features such as movie cast details, user reviews, plot summaries from IMDB.com, and more.",ott-details.p.rapidapi.com,,"[-3.07509713e-02 -8.16209300e-04 -1.85160097e-02 ...  1.01609062e-02
+ -1.73121430e-02  1.62163324e-05]",0.30782508037470074
