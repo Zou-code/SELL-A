@@ -1,0 +1,2513 @@
+requirement,result,success_rate_label1,success_rate_label2,LLM Calls,Token Cost
+"I'd like to know the latest news, user reviews, and global reach rates for the first three games so I can gauge their popularity and community activity.",Fail,-1,-1,29,77996
+I want to filter out free games for a specific platform based on multiple tags and sort by release date in order to find the three most recently released games.,"Top 0 recent games for platform 'pc' with tags ['3d', 'fantasy']:",1,1,11,501655
+"I would like to learn about the first to third evolutionary paths and conditions of Pokemon, including the resources required to strengthen and the number of steps taken. With these three APIs, you have full access to all the information of Pokemon from evolution to enhancement.","Evolution Path for Pikachu:
+Pikachu (Base Form)
+  -> Stage 1: Raichu (Requires 50 Candies)
+
+Buddy Distance Requirements:
+Pikachu (Form: Adventure_hat_2020) - Distance: 1 km
+Pikachu (Form: Copy_2019) - Distance: 1 km
+Pikachu (Form: Costume_2020) - Distance: 1 km
+
+Power-Up Requirements:
+Power-up data is not in the expected format.",1,1,10,496650
+I'd like to filter out three games by platform and specific tags and generate a list of games that match the criteria.,"Testing single-tag search with different tags and platform...
+
+
+Testing with tag '3d' on platform 'pc':
+Top 3 games with tag '3d':
+1. Dauntless - Genre: MMORPG - Platform: PC (Windows)
+2. World of Tanks - Genre: Shooter - Platform: PC (Windows)
+3. Warframe - Genre: Shooter - Platform: PC (Windows)
+
+Testing with tag 'mmorpg' on platform 'pc':
+Top 3 games with tag 'mmorpg':
+1. Dauntless - Genre: MMORPG - Platform: PC (Windows)
+2. Blade and Soul - Genre: MMORPG - Platform: PC (Windows)
+3. Trove - Genre: MMORPG - Platform: PC (Windows)
+
+Testing with tag 'fantasy' on platform 'pc':
+Top 3 games with tag 'fantasy':
+1. Dauntless - Genre: MMORPG - Platform: PC (Windows)
+2. Blade and Soul - Genre: MMORPG - Platform: PC (Windows)
+3. Trove - Genre: MMORPG - Platform: PC (Windows)
+
+Testing with tag 'pvp' on platform 'pc':
+Top 3 games with tag 'pvp':
+1. World of Tanks - Genre: Shooter - Platform: PC (Windows)
+2. Warframe - Genre: Shooter - Platform: PC (Windows)
+3. CRSED: F.O.A.D. - Genre: Shooter - Platform: PC (Windows)",0,0,15,998880
+Three chess puzzles are presented for users to solve and learn.,Fail,-1,-1,30,105052
+"I want to get health assessment data, including BMI (body mass index) based on height and weight, BMR (basal metabolic rate) based on information such as age, weight, and height, combined with activity level to get a total daily calorie burn (TDEE) for my diet and fitness program.","Health Assessment for Male, Age 25, Weight 78kg, Height 180cm
+Invalid BMR or activity level.",1,1,12,730176
+"I want to get appropriate exercise recommendations based on the city's real-time air quality data, including air quality index (AQI) and concentrations of specific pollutants like PM2.5, O3, etc. When the air quality is poor, indoor exercise is recommended.",Fail,-1,-1,16,76763
+"I want to get a training plan that matches my fitness level, including a difficulty level based on the user's current level, appropriate body part training movements, and detailed workout instructions to help increase the intensity of the workout safely and effectively. Now help me optimize and modify the following code to meet the new requirements above
+","Recommended Exercises for Level 'Intermediate':
+1. Ab Crunch Machine - Body Part: Not specified - Equipment: machine
+2. Ab Roller - Body Part: Not specified - Equipment: other
+3. Adductor - Body Part: Not specified - Equipment: foam roll
+4. Adductor/Groin - Body Part: Not specified - Equipment: None
+5. Advanced Kettlebell Windmill - Body Part: Not specified - Equipment: kettlebells
+Error fetching muscle groups: 404
+Using static backup muscle group list.
+Error fetching exercises for target muscle: 404
+
+Exercises Targeting 'Abductors':",1,1,12,778464
+I need to assess their current weight status by BMI (body mass index) and develop a targeted fitness plan based on specific information about the target muscle groups and recommended training movements to better focus the training on the target area.,Fail,-1,-1,28,83603
+"I want to get training movements for specific muscle groups to strengthen muscles or shape. The system needs to provide information about the target muscle groups, recommend suitable training movements, and give detailed instructions and steps for each movement to help users train effectively.
+
+",Fail,-1,-1,19,87380
+"By entering the postcode, I want to get additional postcode and location data within a 5km radius of the location, which can be used to explore nearby areas or find adjacent locations.","Nearby Locations within 5 km of 48195:
+Error fetching location data for postal code 48195: 400
+
+Zip Code: 48195
+  - Distance: 0.0 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48193: 400
+
+Zip Code: 48193
+  - Distance: 2.1363509674204266 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48192: 400
+
+Zip Code: 48192
+  - Distance: 2.5145184538923644 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48146: 400
+
+Zip Code: 48146
+  - Distance: 2.9437606650577206 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48180: 400
+
+Zip Code: 48180
+  - Distance: 3.476270389701451 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48101: 400
+
+Zip Code: 48101
+  - Distance: 3.790888925723768 km
+  - Location: N/A
+  - Coordinates: N/A
+Error fetching location data for postal code 48229: 400
+
+Zip Code: 48229
+  - Distance: 4.555562331497093 km
+  - Location: N/A
+  - Coordinates: N/A
+",1,1,10,523310
+"I would like to query a country and a subset of cities in a specific state to get geographic information about each city for display on a map or for regional analysis.
+
+","Top 10 Cities in Florida, United States:
+ - City: Aberdeen, Latitude: 26.55063000, Longitude: -80.14866000
+ - City: Alachua, Latitude: 29.75163000, Longitude: -82.42483000
+ - City: Alachua County, Latitude: 29.67476000, Longitude: -82.35770000
+ - City: Alafaya, Latitude: 28.56410000, Longitude: -81.21140000
+ - City: Allapattah, Latitude: 25.81454000, Longitude: -80.22394000
+ - City: Altamonte Springs, Latitude: 28.66111000, Longitude: -81.36562000
+ - City: Alturas, Latitude: 27.87169000, Longitude: -81.71508000
+ - City: Alva, Latitude: 26.71562000, Longitude: -81.61008000
+ - City: Andover, Latitude: 25.96843000, Longitude: -80.21283000
+ - City: Anna Maria, Latitude: 27.53115000, Longitude: -82.73343000",1,1,14,877800
+"I need to obtain the information of some of the ten administrative units (such as provinces, regions, townships, and villages) in a specified country/region for administrative data collation or geographic classification display.
+
+",Fail,-1,-1,15,98756
+Enter an address and the system will automatically suggest completions to quickly find the correct address and get relevant geographic information.,Fail,-1,-1,22,108317
+"I enter the starting point and destination, and I need to provide the best driving route, show the driving path, and estimate the arrival time.
+
+","Driving route details:
+Distance: 9777 meters
+Estimated Duration: 21 minutes
+Arrival Time (local at destination): 10:19:25 AM
+Route Path: [[40.758773, -73.984914], [40.758553, -73.985072], [40.758314, -73.98525], [40.758274, -73.985279], [40.758245, -73.985309], [40.757937, -73.985536], [40.757769, -73.985655], [40.757542, -73.985824], [40.757532, -73.985824], [40.757424, -73.985903], [40.757325, -73.985972], [40.75702, -73.986201], [40.756696, -73.98643], [40.75652, -73.98657], [40.756451, -73.98662], [40.756049, -73.98692], [40.755685, -73.987201], [40.755409, -73.987412], [40.755162, -73.987573], [40.755013, -73.987704], [40.754775, -73.987866], [40.754616, -73.987977], [40.754457, -73.988098], [40.754407, -73.988139], [40.754307, -73.988209], [40.754297, -73.98822], [40.754257, -73.98824], [40.754177, -73.988301], [40.753544, -73.988787], [40.752916, -73.989233], [40.752763, -73.989345], [40.752438, -73.989578], [40.752285, -73.989689], [40.752132, -73.989801], [40.751817, -73.990033], [40.751766, -73.990064], [40.751654, -73.990145], [40.751369, -73.990367], [40.751135, -73.990538], [40.750983, -73.990639], [40.750588, -73.989679], [40.750487, -73.989436], [40.750416, -73.989254], [40.750235, -73.988858], [40.750054, -73.988402], [40.749933, -73.988139], [40.749853, -73.987957], [40.749813, -73.987855], [40.749753, -73.987734], [40.749663, -73.987502], [40.749523, -73.98714], [40.749404, -73.98689], [40.749394, -73.98685], [40.749215, -73.98644], [40.749175, -73.98634], [40.749105, -73.986181], [40.748858, -73.985576], [40.748848, -73.985546], [40.74864, -73.985062], [40.748433, -73.984559], [40.748128, -73.983819], [40.747981, -73.983503], [40.747843, -73.983186], [40.747765, -73.982978], [40.747539, -73.98245], [40.747431, -73.98218], [40.747343, -73.98198], [40.747294, -73.98187], [40.747225, -73.981709], [40.747206, -73.981659], [40.747127, -73.981467], [40.747088, -73.981367], [40.747058, -73.981276], [40.747009, -73.981165], [40.746931, -73.980963], [40.746891, -73.980861], [40.746576, -73.980091], [40.746557, -73.98003], [40.746429, -73.979726], [40.74634, -73.979513], [40.74629, -73.979392], [40.746251, -73.979301], [40.745984, -73.978644], [40.745904, -73.978462], [40.745765, -73.9781], [40.745556, -73.9776], [40.745437, -73.97732], [40.745257, -73.976933], [40.745157, -73.976695], [40.745097, -73.976536], [40.744806, -73.975884], [40.744735, -73.975707], [40.744725, -73.975697], [40.744614, -73.975421], [40.744533, -73.975224], [40.744483, -73.975096], [40.744301, -73.974701], [40.744169, -73.974394], [40.744017, -73.974038], [40.743885, -73.973729], [40.743824, -73.97353], [40.743723, -73.97337], [40.743601, -73.97308], [40.74357, -73.973], [40.743458, -73.972739], [40.743306, -73.972377], [40.743285, -73.972326], [40.743234, -73.972195], [40.743214, -73.972155], [40.743194, -73.972185], [40.743163, -73.972225], [40.743143, -73.972256], [40.743132, -73.972286], [40.743112, -73.972316], [40.743031, -73.972336], [40.742959, -73.972367], [40.742786, -73.972447], [40.742766, -73.972467], [40.742755, -73.972467], [40.742725, -73.972477], [40.742674, -73.972508], [40.742613, -73.972528], [40.742542, -73.972558], [40.74246, -73.972588], [40.742369, -73.972628], [40.742297, -73.972649], [40.742226, -73.972679], [40.742145, -73.972709], [40.742054, -73.972729], [40.741973, -73.972749], [40.741881, -73.972779], [40.74179, -73.972799], [40.74175, -73.972799], [40.741679, -73.972819], [40.741547, -73.97285], [40.741366, -73.97288], [40.741335, -73.97289], [40.741094, -73.97292], [40.740943, -73.97294], [40.740923, -73.97295], [40.740863, -73.97288], [40.740703, -73.97292], [40.740643, -73.97293], [40.740573, -73.97294], [40.740394, -73.97298], [40.740334, -73.97299], [40.740145, -73.97303], [40.740036, -73.97305], [40.739947, -73.97307], [40.739917, -73.97307], [40.739868, -73.97308], [40.739828, -73.97309], [40.73967, -73.97313], [40.739621, -73.97315], [40.739512, -73.97318], [40.739414, -73.97321], [40.739305, -73.97326], [40.739207, -73.9733], [40.73906, -73.97337], [40.738971, -73.97341], [40.738951, -73.97342], [40.738893, -73.97346], [40.738804, -73.97351], [40.738716, -73.97356], [40.738618, -73.97363], [40.738529, -73.97369], [40.738451, -73.973749], [40.738353, -73.973819], [40.738255, -73.973889], [40.738166, -73.973958], [40.738068, -73.974028], [40.73797, -73.974097], [40.737842, -73.974196], [40.737636, -73.974345], [40.737616, -73.974365], [40.737547, -73.974414], [40.737448, -73.974493], [40.737438, -73.974493], [40.73735, -73.974563], [40.737211, -73.974661], [40.737172, -73.974691], [40.737063, -73.97476], [40.737043, -73.97477], [40.736974, -73.97481], [40.736924, -73.974839], [40.736904, -73.974849], [40.736875, -73.974869], [40.736825, -73.974889], [40.736775, -73.974908], [40.736686, -73.974948], [40.736676, -73.974948], [40.736586, -73.974977], [40.736477, -73.975007], [40.736447, -73.975017], [40.736367, -73.975037], [40.736277, -73.975056], [40.736147, -73.975066], [40.736097, -73.975066], [40.736057, -73.975066], [40.736047, -73.975066], [40.735996, -73.975066], [40.735956, -73.975066], [40.735916, -73.975066], [40.735876, -73.975066], [40.735826, -73.975066], [40.735775, -73.975056], [40.735715, -73.975046], [40.735705, -73.975046], [40.735655, -73.975037], [40.735574, -73.975017], [40.735473, -73.974987], [40.735362, -73.974968], [40.735352, -73.974958], [40.73525, -73.974938], [40.735169, -73.974918], [40.735159, -73.974918], [40.735027, -73.974879], [40.734763, -73.974819], [40.73454, -73.97476], [40.734489, -73.97475], [40.734316, -73.974711], [40.734163, -73.974671], [40.73398, -73.974622], [40.733623, -73.974533], [40.73345, -73.974493], [40.733338, -73.974464], [40.733003, -73.974385], [40.732922, -73.974365], [40.732739, -73.974315], [40.732568, -73.974276], [40.732446, -73.974246], [40.732325, -73.974206], [40.732154, -73.974167], [40.732014, -73.974137], [40.731903, -73.974107], [40.731793, -73.974077], [40.731743, -73.974067], [40.731673, -73.974038], [40.731583, -73.974008], [40.731563, -73.973998], [40.731414, -73.973938], [40.731374, -73.973908], [40.731264, -73.973859], [40.731205, -73.973819], [40.731155, -73.973789], [40.731046, -73.97371], [40.730947, -73.97363], [40.730917, -73.9736], [40.730897, -73.97358], [40.730828, -73.97351], [40.730739, -73.97342], [40.73068, -73.97335], [40.73064, -73.97331], [40.730571, -73.97322], [40.730355, -73.97296], [40.730325, -73.97291], [40.730315, -73.9729], [40.730217, -73.972779], [40.729961, -73.972467], [40.729843, -73.972356], [40.729696, -73.972225], [40.729598, -73.972155], [40.72949, -73.972074], [40.729333, -73.971983], [40.729323, -73.971983], [40.729196, -73.971922], [40.729098, -73.971892], [40.729019, -73.971861], [40.728901, -73.971821], [40.728891, -73.971821], [40.728813, -73.971811], [40.728704, -73.971791], [40.728616, -73.97178], [40.728498, -73.97178], [40.72834, -73.971791], [40.727964, -73.971841], [40.727706, -73.971872], [40.727317, -73.971932], [40.727087, -73.971963], [40.726886, -73.971993], [40.726574, -73.972074], [40.726402, -73.972134], [40.72625, -73.972195], [40.726048, -73.972286], [40.725906, -73.972356], [40.725885, -73.972377], [40.725845, -73.972397], [40.725652, -73.972498], [40.72557, -73.972548], [40.72556, -73.972548], [40.72553, -73.972568], [40.725336, -73.972679], [40.725234, -73.972739], [40.725183, -73.972769], [40.725132, -73.972809], [40.725071, -73.97284], [40.72499, -73.9729], [40.724888, -73.97295], [40.724725, -73.97305], [40.724633, -73.97311], [40.724603, -73.97313], [40.724491, -73.9732], [40.72443, -73.97325], [40.724399, -73.97326], [40.724277, -73.97334], [40.724135, -73.97343], [40.724104, -73.97344], [40.723658, -73.973729], [40.723456, -73.973849], [40.723295, -73.973948], [40.723164, -73.974028], [40.722863, -73.974216], [40.722663, -73.974325], [40.722563, -73.974375], [40.722463, -73.974424], [40.722364, -73.974474], [40.722254, -73.974513], [40.722145, -73.974543], [40.722105, -73.974563], [40.722046, -73.974582], [40.721927, -73.974602], [40.721828, -73.974632], [40.721719, -73.974652], [40.721621, -73.974661], [40.721621, -73.974671], [40.721296, -73.974701], [40.720853, -73.97476], [40.720696, -73.97477], [40.720657, -73.97478], [40.720333, -73.974819], [40.720166, -73.974839], [40.720157, -73.974839], [40.720009, -73.974859], [40.719616, -73.974908], [40.719241, -73.974958], [40.719103, -73.974977], [40.719043, -73.974987], [40.718895, -73.974997], [40.718686, -73.975027], [40.718556, -73.975046], [40.718427, -73.975066], [40.718377, -73.975076], [40.718207, -73.975116], [40.717996, -73.975165], [40.717946, -73.975175], [40.717896, -73.975185], [40.717866, -73.975194], [40.717584, -73.975283], [40.717372, -73.975342], [40.717291, -73.975372], [40.716835, -73.975549], [40.716631, -73.975628], [40.716204, -73.975845], [40.716112, -73.975894], [40.715908, -73.975993], [40.715755, -73.976072], [40.715633, -73.976131], [40.715531, -73.976181], [40.715409, -73.97625], [40.715044, -73.976428], [40.714891, -73.976507], [40.71477, -73.976566], [40.714709, -73.976596], [40.714568, -73.976665], [40.714537, -73.976685], [40.714315, -73.976794], [40.714235, -73.976833], [40.714205, -73.976853], [40.713983, -73.976972], [40.713344, -73.97729], [40.713245, -73.97734], [40.713195, -73.97737], [40.712967, -73.97749], [40.712957, -73.97749], [40.712818, -73.97757], [40.712571, -73.97769], [40.712325, -73.97784], [40.712276, -73.97787], [40.712227, -73.9779], [40.712138, -73.97799], [40.711932, -73.97816], [40.711755, -73.978372], [40.711608, -73.978573], [40.711461, -73.978815], [40.711441, -73.978845], [40.711274, -73.979179], [40.711157, -73.979463], [40.711137, -73.979534], [40.711068, -73.979757], [40.711039, -73.979899], [40.711009, -73.98003], [40.710999, -73.980101], [40.71096, -73.980294], [40.71096, -73.980304], [40.710931, -73.980588], [40.710921, -73.980699], [40.710881, -73.981306], [40.710862, -73.981618], [40.710832, -73.98202], [40.710832, -73.98205], [40.710793, -73.98256], [40.710783, -73.982719], [40.710763, -73.982958], [40.710714, -73.98376], [40.710665, -73.98449], [40.710645, -73.984677], [40.710626, -73.984875], [40.710527, -73.985764], [40.710507, -73.985873], [40.710468, -73.986231], [40.710458, -73.98635], [40.710438, -73.98646], [40.710419, -73.98669], [40.710281, -73.987845], [40.710281, -73.987876], [40.710251, -73.988108], [40.710231, -73.988351], [40.710122, -73.989254], [40.710093, -73.989497], [40.710063, -73.98975], [40.709994, -73.990215], [40.709964, -73.990457], [40.709944, -73.990618], [40.709924, -73.990689], [40.709895, -73.99092], [40.709865, -73.99116], [40.709825, -73.99139], [40.709815, -73.99147], [40.709775, -73.99171], [40.709746, -73.991918], [40.709746, -73.991938], [40.709706, -73.992167], [40.709686, -73.992355], [40.709666, -73.992454], [40.709646, -73.992592], [40.709606, -73.992819], [40.709596, -73.992918], [40.709556, -73.993145], [40.709537, -73.993283], [40.709527, -73.993372], [40.709497, -73.993559], [40.709497, -73.993608], [40.709467, -73.993835], [40.709437, -73.994072], [40.709427, -73.994181], [40.709387, -73.994507], [40.709337, -73.994824], [40.709297, -73.995161], [40.709247, -73.99549], [40.709207, -73.99578], [40.709187, -73.99594], [40.709177, -73.99601], [40.709147, -73.996201], [40.709127, -73.996382], [40.709067, -73.996815], [40.709057, -73.996855], [40.709027, -73.997088], [40.709027, -73.997128], [40.708996, -73.997321], [40.708976, -73.997442], [40.708956, -73.997544], [40.708956, -73.997564], [40.708916, -73.997726], [40.708916, -73.997736], [40.708856, -73.997959], [40.708856, -73.99797], [40.708806, -73.998152], [40.708765, -73.998264], [40.708735, -73.998365], [40.708725, -73.998406], [40.708695, -73.998487], [40.708644, -73.998598], [40.708604, -73.99871], [40.708564, -73.998821], [40.708554, -73.998851], [40.708533, -73.998952], [40.708523, -73.999023], [40.708513, -73.999074], [40.708513, -73.999175], [40.708513, -73.999276], [40.708523, -73.999356], [40.708533, -73.999437], [40.708544, -73.999498], [40.708564, -73.999588], [40.708634, -73.99999], [40.708665, -74.0001], [40.708665, -74.00012], [40.708675, -74.00015], [40.708705, -74.00023], [40.708715, -74.00027], [40.708735, -74.00032], [40.708745, -74.00037], [40.708755, -74.0004], [40.708795, -74.00048], [40.708816, -74.00051], [40.708826, -74.00053], [40.708886, -74.00063], [40.708926, -74.00069], [40.708946, -74.000739], [40.709007, -74.000869], [40.709107, -74.000998], [40.709207, -74.001127], [40.709287, -74.001236], [40.709377, -74.001355], [40.709437, -74.001434], [40.709566, -74.001602], [40.709606, -74.001661], [40.709676, -74.00174], [40.709934, -74.002076], [40.710112, -74.002293], [40.710419, -74.002687], [40.710468, -74.002756], [40.710517, -74.002815], [40.710557, -74.002875], [40.710645, -74.002983], [40.710675, -74.003023], [40.710714, -74.003082], [40.710744, -74.003131], [40.710773, -74.003171], [40.710862, -74.003309], [40.710881, -74.003378], [40.710901, -74.003477], [40.710911, -74.003536], [40.710921, -74.003586], [40.710931, -74.003635], [40.710931, -74.003685], [40.71094, -74.003764], [40.71095, -74.003784], [40.71096, -74.003853], [40.71097, -74.003933], [40.71097, -74.003992], [40.71098, -74.004022], [40.71099, -74.004111], [40.710999, -74.004171], [40.711019, -74.004221], [40.711039, -74.004241], [40.711039, -74.004251], [40.711068, -74.00429], [40.711098, -74.00432], [40.711127, -74.00434], [40.711166, -74.00435], [40.711196, -74.00436], [40.711225, -74.00436], [40.711265, -74.00436], [40.711294, -74.00435], [40.711323, -74.00434], [40.711353, -74.00432], [40.711392, -74.00429], [40.711402, -74.004271], [40.711431, -74.004241], [40.711451, -74.004181], [40.711461, -74.004151], [40.711471, -74.004131], [40.711471, -74.004101], [40.71148, -74.004072], [40.71148, -74.004042], [40.71148, -74.004012], [40.71148, -74.003982], [40.711471, -74.003952], [40.711461, -74.003903], [40.711441, -74.003863], [40.711431, -74.003824], [40.711392, -74.003764], [40.711353, -74.003705], [40.711304, -74.003635], [40.711265, -74.003586], [40.711235, -74.003546], [40.711206, -74.003497], [40.711176, -74.003457], [40.711127, -74.003388], [40.711088, -74.003319], [40.710881, -74.003023], [40.710793, -74.002894], [40.710675, -74.002717], [40.710419, -74.002392], [40.71029, -74.002234], [40.709904, -74.00175], [40.709736, -74.001543], [40.709566, -74.001335], [40.709377, -74.001097], [40.709347, -74.001057], [40.709117, -74.000769], [40.709017, -74.00064], [40.708906, -74.00051], [40.708806, -74.00038], [40.708685, -74.00023], [40.708655, -74.00019], [40.708614, -74.00015], [40.708554, -74.00007], [40.708473, -73.99998], [40.708362, -73.99984], [40.70825, -73.999689], [40.708119, -73.999518], [40.707967, -73.999326], [40.707896, -73.999245], [40.707824, -73.999155], [40.707723, -73.999023], [40.707631, -73.998922], [40.707275, -73.998466], [40.707132, -73.998304], [40.70643, -73.997422], [40.706297, -73.99725], [40.706023, -73.996906]]
+",1,1,12,645108
+"I enter GPS coordinates to determine if the location is on a body of water (such as a lake, river, or ocean) and provide information about the nearest city so I know the geographic location.
+
+",Fail,-1,-1,22,86124
+"I enter the geographic coordinates of multiple locations, and the system determines if they're in the same time zone and provides specific time zone information for each location to plan events or communications across regions.","Locations are in different time zones:
+Location (40.712776, -74.005974):
+ - Time Zone: America/New_York
+ - Local Time: 10:02:11 AM
+ - GMT Offset: -5
+
+Location (34.052235, -118.243683):
+ - Time Zone: America/Los_Angeles
+ - Local Time: 7:02:12 AM
+ - GMT Offset: -8
+
+Location (51.507351, -0.127758):
+ - Time Zone: Europe/London
+ - Local Time: 3:02:13 PM
+ - GMT Offset: 0",1,1,10,445700
+"I enter two addresses, convert them to geographic coordinates, and calculate the straight-line distance between them for distance measurement and navigation.
+
+","Distance between the addresses:
+- Meters: 4118914.760087681 meters
+- Kilometers: 4118.914760087681 km
+- Miles: 2559.3749751996347 miles",1,1,12,760848
+"I hope that by entering a keyword or song name, the system will return ten related songs and provide similar song recommendations to expand the music playlist.
+
+",Fail,-1,-1,19,97192
+"I want to know the details of an album and see all the tracks in the album and their playback data (e.g. number of plays, duration, etc.).
+
+","Album Name: Kan
+Artist(s): UZI
+Release Date: 2021-03-19
+Total Tracks: 10
+Label: M.O.B. Entertainment
+
+No track data available for this album.
+Additional Metadata:
+Cover Art URL: https://i.scdn.co/image/ab67616d00001e0267c738a703dc979f5c3c52ef
+Spotify Link: https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv?si=OCZfOkEpRp6sx5C7sin6uQ",1,1,15,1180890
+"I want to get a list of news by topic and click on the first one to see the full content of the article, the system needs to display news by popularity and provide detailed pages for different topics.",Fail,-1,-1,23,88463
+"When I want to access environmental and climate-related news stories, I need to display the title, URL, publication date, and media source of the news so that I can quickly understand what is relevant to it.
+
+","Fetching climate-related articles:
+Title: Google's ‘A Passage of Water' Brings NASA's Water Data to Life
+URL: https://climate.nasa.gov/news/3293/
+Published: 2023-11-30T17:50:23.000Z
+Source: Nasa Climate
+
+Title: NASA to Showcase Earth Science Data at COP28
+URL: https://climate.nasa.gov/news/3292/
+Published: 2023-11-28T00:05:44.000Z
+Source: Nasa Climate
+
+Title: NASA Analysis Finds Strong El Niño Could Bring Extra Floods This Winter
+URL: https://climate.nasa.gov/news/3291/
+Published: 2023-11-08T19:46:30.000Z
+Source: Nasa Climate
+
+Title: NASA Flights Link Methane Plumes to Tundra Fires in Western Alaska
+URL: https://climate.nasa.gov/news/3289/
+Published: 2023-11-02T15:57:00.000Z
+Source: Nasa Climate
+
+Title: See SWOT Mission's Unprecedented View of Global Sea Levels
+URL: https://climate.nasa.gov/news/3288/
+Published: 2023-10-30T16:15:38.000Z
+Source: Nasa Climate",1,1,11,597267
+"I want to see the main news feeds for three countries and regions and get the latest news from each source, and the system needs to show a list of the latest news by source or country.
+
+","Latest news from USA:
+No articles available.
+
+Latest news from UK:
+No articles available.
+
+Latest news from Australia:
+No articles available.
+
+No news available for any of the specified countries.
+Error fetching data from https://bbc-api2.p.rapidapi.com/latest: 400 Client Error: Bad Request for url: https://bbc-api2.p.rapidapi.com/latest?lang=en
+
+Failed to fetch global latest news or no news available.",1,1,12,597996
+"I would like to perform lexical and structural analysis on three specific texts to obtain information such as unique lexical statistics, chapter counts, and word counts to better understand the complexity and style of the text.
+
+",Fail,-1,-1,16,96919
+"I would like to inquire about five types of information on biodiversity and specific plants, including their environment, ecological characteristics and conservation status, for ecological conservation or scientific research.
+
+",Fail,-1,-1,27,80533
+"I want to know about five different logical fallacies (such as the ""either/or"" fallacy), including the definition, examples, and background of each fallacy in order to better understand common mistakes in logical reasoning.","Fallacy Name: ambiguity
+Definition: You used a double meaning or ambiguity of language to mislead or misrepresent the truth.
+Example: When the judge asked the defendant why he hadn't paid his parking fines, he said that he shouldn't have to pay them because the sign said 'Fine for parking here' and so he naturally presumed that it would be fine to park there.
+Background: Politicians are often guilty of using ambiguity to mislead and will later point to how they were technically not outright lying if they come under scrutiny. The reason that it qualifies as a fallacy is that it is intrinsically&nbsp;misleading.
+",1,1,15,1202355
+"I need to retrieve rentable properties in a specific location and allow filtering based on criteria such as price, number of rooms and whether they are furnished or not. Be able to access detailed information about each property, including price, location and other features. In addition, information about the relevant agents managing each property is displayed, including agent name and location. You also need to be able to handle location information correctly, whether it's a single object or a list.",Fail,-1,-1,26,99195
+"I want to explore geo-location through microsite search and provincial filtering. Once a location is selected, you can search for a list of rooms for rent or commercial properties available in that location. I wanted to filter the room listings based on criteria such as relevance, price and availability, while also being able to browse detailed commercial property information. It should support different languages and allow sorting according to my preferences.","Available Provinces:
+- Madrid (ID: 0-EU-ES-28)
+Available Municipalities:
+- Ciudalcampo, Madrid (ID: 0-EU-ES-28-01-008-504)
+- La Moraleja, Madrid (ID: 0-EU-ES-28-01-007-502)
+- Madrid, Madrid (ID: 0-EU-ES-28-07-001-079)
+Available Room Listings in Madrid:
+1. Room in calle Concepción de la Oliva, 12 - Price: 380.0
+2. Room in calle de Ríos Rosas, 51 - Price: 630.0
+3. Room in Braile, 20 - Price: 450.0
+4. Room in aligustre, 8 - Price: 730.0
+5. Room in calle José Silva, 3 - Price: 610.0
+Available Commercial Properties in Madrid:
+1. Commercial premises in paseo de La Habana - Price: 3440000.0
+2. Commercial premises in calle de Fortuny - Price: 700000.0
+3. Commercial premises in calle de Agastia - Price: 5950000.0
+4. Commercial premises in calle de Ferraz - Price: 850000.0
+5. Commercial premises in paseo de San Francisco de Sales, 27 - Price: 675000.0
+",1,1,14,1041236
+"I retrieve listings of properties for sale in the city of Oxford, Oxfordshire, get details about estate agents in the Oxford area, and filter properties according to various criteria such as property type and price range. Be able to explore detailed property characteristics, including images, agent details and geographical location, while allowing sorting by criteria such as current listings or relevance.",Fail,-1,-1,21,80997
+"I want to integrate real estate and school data for potential home buyers in Australia. Find nearby schools based on the specified location, retrieve a list of available properties based on filters such as city, price, and type, and provide detailed information about each selected property. School options can be explored by primary, secondary or all types within a given radius, while also having access to comprehensive details of specific property listings.","Nearby Schools:
+1. North Melbourne Primary School - Type: Primary - Address: 210 ERROL STREET, NORTH MELBOURNE, VIC 3051
+2. University High School - Type: Secondary - Address: 77 STORY STREET, PARKVILLE, VIC 3052
+3. St Joseph's Flexible Learning Centre - Type: Secondary - Address: 385 QUEENSBERRY STREET, NORTH MELBOURNE, VIC 3051
+4. Simonds Catholic College - Type: Secondary - Address: 273 VICTORIA STREET, WEST MELBOURNE, VIC 3003
+5. St Michael's School - Type: Primary - Address: 8 BROUGHAM ST, NORTH MELBOURNE, VIC 3051
+6. St Aloysius College - Type: Secondary - Address: 31 CURRAN ST, NORTH MELBOURNE, VIC 3051
+7. Stott's College - Type: Secondary - Address: 43 ELIZABETH STREET, MELBOURNE, VIC 3000
+8. Haileybury College - City Campus - Type: Combined - Address: 383 King St, West Melbourne, VIC 3003
+9. Carlton Primary School - Type: Primary - Address: CNR PALMERSTON & DRUMMOND STS, CARLTON, VIC 3053
+10. Carlton Gardens Primary School - Type: Primary - Address: 215 RATHDOWNE STREET, CARLTON, VIC 3053
+
+Real Estate Listings in Cape Coral (under $300,000):
+1. 4513 SW 8th Ct Apt 111, Cape Coral, FL 33914, USA - Price: $132000 - City: Cape Coral
+2. 608 SE 6th St Apt F, Cape Coral, FL 33990, USA - Price: $140000 - City: Cape Coral
+3. 1100 Pondella Rd Apt 416, Cape Coral, FL 33909, USA - Price: $148000 - City: Cape Coral
+4. 1100 Pondella Rd Apt 1001, Cape Coral, FL 33909, USA - Price: $149000 - City: Cape Coral
+5. 1113 Cape Coral Pkwy W Apt 103, Cape Coral, FL 33914, USA - Price: $149900 - City: Cape Coral
+6. 4608 SE 4th Pl Apt 5, Cape Coral, FL 33904, USA - Price: $149900 - City: Cape Coral
+7. 4611 SE 5th Pl Apt 8, Cape Coral, FL 33904, USA - Price: $157000 - City: Cape Coral
+8. 804 Mohawk Pkwy Apt 103, Cape Coral, FL 33914, USA - Price: $158400 - City: Cape Coral
+9. 1100 Pondella Rd Apt 616, Cape Coral, FL 33909, USA - Price: $159000 - City: Cape Coral
+10. 4014 Coronado Pkwy Unit 106, Cape Coral, FL 33904, USA - Price: $159000 - City: Cape Coral
+11. 3914 SW 8th Ct Apt 102, Cape Coral, FL 33914, USA - Price: $159500 - City: Cape Coral
+12. 1100 Pondella Rd Apt 712, Cape Coral, FL 33909, USA - Price: $159999 - City: Cape Coral
+13. 2504 SE 16th Pl Apt 103, Cape Coral, FL 33904, USA - Price: $160000 - City: Cape Coral
+14. 2504 SE 16th Pl Apt 101, Cape Coral, FL 33904, USA - Price: $160000 - City: Cape Coral
+15. 4608 SE 4th Pl Apt 3, Cape Coral, FL 33904, USA - Price: $160000 - City: Cape Coral
+16. 503 Cape Coral Pkwy W Apt 104, Cape Coral, FL 33914, USA - Price: $165000 - City: Cape Coral
+17. 607 SE 47th St Apt 6, Cape Coral, FL 33904, USA - Price: $165000 - City: Cape Coral
+18. 4616 Skyline Blvd Apt 104, Cape Coral, FL 33914, USA - Price: $169000 - City: Cape Coral
+19. 4906 Victoria Dr Apt 103, Cape Coral, FL 33904, USA - Price: $169000 - City: Cape Coral
+20. 4912 Vincennes Ct Apt 201, Cape Coral, FL 33904, USA - Price: $169900 - City: Cape Coral
+21. 4722 SE 1st Pl Apt 12, Cape Coral, FL 33904, USA - Price: $169900 - City: Cape Coral
+22. 4613 SE 5th Ave Apt 104, Cape Coral, FL 33904, USA - Price: $170000 - City: Cape Coral
+23. 4613 SE 5th Ave Apt 104, Cape Coral, FL 33904, USA - Price: $170000 - City: Cape Coral
+24. 804 Mohawk Pkwy Apt 105, Cape Coral, FL 33914, USA - Price: $171000 - City: Cape Coral
+25. 1407 SW 16th Ter Apt 201, Cape Coral, FL 33991, USA - Price: $174000 - City: Cape Coral
+26. 4514 SW 8th Pl Unit 11, Cape Coral, FL 33914, USA - Price: $174500 - City: Cape Coral
+27. 4616 Skyline Blvd Apt 207, Cape Coral, FL 33914, USA - Price: $174900 - City: Cape Coral
+28. 4920 Vincennes Ct Unit 104, Cape Coral, FL 33904, USA - Price: $174900 - City: Cape Coral
+29. 950 Hancock Creek South Blvd Apt 213, Cape Coral, FL 33909, USA - Price: $174999 - City: Cape Coral
+30. 4516 Santa Barbara Blvd Apt 3, Cape Coral, FL 33914, USA - Price: $175000 - City: Cape Coral
+31. 2526 SE 16th Pl Apt 210, Cape Coral, FL 33904, USA - Price: $175000 - City: Cape Coral
+32. 2526 SE 16th Pl Apt 210, Cape Coral, FL 33904, USA - Price: $175000 - City: Cape Coral
+33. 1040 Hancock Creek South Blvd Apt 101, Cape Coral, FL 33909, USA - Price: $175000 - City: Cape Coral
+34. 1865 Concordia Lake Cir Unit 408, Cape Coral, FL 33909, USA - Price: $177900 - City: Cape Coral
+35. 1865 Concordia Lake Cir Unit 408, Cape Coral, FL 33909, USA - Price: $177900 - City: Cape Coral
+36. 1080 Hancock Creek South Blvd Apt 101, Cape Coral, FL 33909, USA - Price: $178000 - City: Cape Coral
+37. 1771 Four Mile Cove Pkwy Apt 1027, Cape Coral, FL 33990, USA - Price: $179000 - City: Cape Coral
+38. 3956 Pomodoro Cir Unit 103, Cape Coral, FL 33909, USA - Price: $179000 - City: Cape Coral
+39. 4706 SE 4th Pl Apt 13, Cape Coral, FL 33904, USA - Price: $179000 - City: Cape Coral
+40. 2813 Del Prado Blvd S Unit A19, Cape Coral, FL 33904, USA - Price: $179900 - City: Cape Coral
+41. 423 Cape Coral Pkwy W Apt 107, Cape Coral, FL 33914, USA - Price: $179950 - City: Cape Coral
+42. 4641 SW Santa Barbara Pl Apt 2, Cape Coral, FL 33914, USA - Price: $180000 - City: Cape Coral
+43. 3907 Del Prado Blvd S Unit 104C, Cape Coral, FL 33904, USA - Price: $180000 - City: Cape Coral
+44. 4407 SW 7th Pl Apt 7, Cape Coral, FL 33914, USA - Price: $180000 - City: Cape Coral
+45. 1050 Hancock Creek South Blvd Apt 203, Cape Coral, FL 33909, USA - Price: $180000 - City: Cape Coral
+46. 3907 Del Prado Blvd S # 104, Cape Coral, FL 33904, USA - Price: $180000 - City: Cape Coral
+47. 1141 Gleason Pkwy Unit 206, Cape Coral, FL 33914, USA - Price: $182000 - City: Cape Coral
+48. 950 Hancock Creek South Blvd Apt 112, Cape Coral, FL 33909, USA - Price: $183000 - City: Cape Coral
+49. 1512 Cape Coral Pkwy W Apt 102, Cape Coral, FL 33914, USA - Price: $183000 - City: Cape Coral
+50. 950 Hancock Creek South Blvd Apt 112, Cape Coral, FL 33909, USA - Price: $183000 - City: Cape Coral
+51. 1518 SW Courtyards Ln Apt 199, Cape Coral, FL 33914, USA - Price: $184900 - City: Cape Coral
+52. 4608 SE 6th Ave Apt 1D, Cape Coral, FL 33904, USA - Price: $184900 - City: Cape Coral
+53. 1769 Four Mile Cove Pkwy Apt 927, Cape Coral, FL 33990, USA - Price: $184900 - City: Cape Coral
+54. 1769 Four Mile Cove Pkwy Apt 911, Cape Coral, FL 33990, USA - Price: $185000 - City: Cape Coral
+55. 4420 Santa Barbara Blvd Apt 105, Cape Coral, FL 33914, USA - Price: $185000 - City: Cape Coral
+56. 4109 SE 19th Ave Apt 207, Cape Coral, FL 33904, USA - Price: $185000 - City: Cape Coral
+57. 1771 Four Mile Cove Pkwy Apt 1015, Cape Coral, FL 33990, USA - Price: $185000 - City: Cape Coral
+58. 3968 Pomodoro Cir, Cape Coral, FL 33909, USA - Price: $185999 - City: Cape Coral
+59. 1417 SE 24th Ave Apt D, Cape Coral, FL 33990, USA - Price: $187000 - City: Cape Coral
+60. 2510 SE 16th Pl Apt 102, Cape Coral, FL 33904, USA - Price: $187000 - City: Cape Coral
+61. 4805 Sorrento Ct Unit 106, Cape Coral, FL 33904, USA - Price: $189000 - City: Cape Coral
+62. 1121 Van Loon Commons Cir Apt 203, Cape Coral, FL 33909, USA - Price: $189900 - City: Cape Coral
+63. 1507 Cape Coral Pkwy W Apt 5, Cape Coral, FL 33914, USA - Price: $190000 - City: Cape Coral
+64. 3969 Pomodoro Cir, Cape Coral, FL 33909, USA - Price: $190000 - City: Cape Coral
+65. 3947 Del Sol Ln, Cape Coral, FL 33909, USA - Price: $190000 - City: Cape Coral
+66. 1101 Van Loon Commons Cir Apt 302, Cape Coral, FL 33909, USA - Price: $192500 - City: Cape Coral
+67. 1100 Pondella Rd, Cape Coral, FL 33909, USA - Price: $193732 - City: Cape Coral
+68. Cape Coral 321 Pkwy, Cape Coral, FL 33914, USA - Price: $193900 - City: Cape Coral
+69. 804 Mohawk Pkwy Apt 106, Cape Coral, FL 33914, USA - Price: $195000 - City: Cape Coral
+70. 3739 SW 9th Ave Apt 109, Cape Coral, FL 33914, USA - Price: $195000 - City: Cape Coral
+71. 950 Hancock Creek South Blvd Apt 222, Cape Coral, FL 33909, USA - Price: $196900 - City: Cape Coral
+72. 1518 SW Courtyards Ln Apt 200, Cape Coral, FL 33914, USA - Price: $198000 - City: Cape Coral
+73. 1503 SW 51st Ln Apt 141, Cape Coral, FL 33914, USA - Price: $198000 - City: Cape Coral
+74. 3940 Pomodoro Cir, Cape Coral, FL 33909, USA - Price: $198999 - City: Cape Coral
+75. 1524 SW 50th St Apt 203, Cape Coral, FL 33914, USA - Price: $199000 - City: Cape Coral
+76. 4213 SE 19th Ave Apt 205, Cape Coral, FL 33904, USA - Price: $199900 - City: Cape Coral
+77. 3953 Pomodoro Cir Unit 204, Cape Coral, FL 33909, USA - Price: $199900 - City: Cape Coral
+78. 1304 SE 7th St Apt 110, Cape Coral, FL 33990, USA - Price: $199900 - City: Cape Coral
+79. 4213 SE 19th Ave Apt 205, Cape Coral, FL 33904, USA - Price: $199900 - City: Cape Coral
+80. 4213 SE 19th Ave Apt 106, Cape Coral, FL 33904, USA - Price: $199900 - City: Cape Coral
+81. 950 Hancock Creek South Blvd Apt 511, Cape Coral, FL 33909, USA - Price: $199900 - City: Cape Coral
+82. 4202 SE 4th Pl Unit 10, Cape Coral, FL 33904, USA - Price: $199900 - City: Cape Coral
+83. 950 Hancock Creek South Blvd Apt 411, Cape Coral, FL 33909, USA - Price: $199999 - City: Cape Coral
+84. 1519 Cape Coral Pkwy W Apt 6, Cape Coral, FL 33914, USA - Price: $199999 - City: Cape Coral
+85. 1141 Van Loon Commons Cir Apt 103, Cape Coral, FL 33909, USA - Price: $200000 - City: Cape Coral
+86. 3903 Del Prado Blvd S Unit 101, Cape Coral, FL 33904, USA - Price: $200000 - City: Cape Coral
+87. 3911 Country Club Blvd Apt 104, Cape Coral, FL 33904, USA - Price: $200000 - City: Cape Coral
+88. 4906 Victoria Dr Apt 413, Cape Coral, FL 33904, USA - Price: $200000 - City: Cape Coral
+89. 1005 SE 40th St Apt 4, Cape Coral, FL 33904, USA - Price: $204999 - City: Cape Coral
+90. 716 SE 12th Ct Apt 29, Cape Coral, FL 33990, USA - Price: $209000 - City: Cape Coral
+91. 5116 Coronado Pkwy Apt 16, Cape Coral, FL 33904, USA - Price: $209000 - City: Cape Coral
+92. 3913 SE 11th Ave Apt 206, Cape Coral, FL 33904, USA - Price: $209000 - City: Cape Coral
+93. 3944 Pomodoro Cir Unit 203, Cape Coral, FL 33909, USA - Price: $209900 - City: Cape Coral
+94. 2904 Tuscan Dr Unit 302, Cape Coral, FL 33909, USA - Price: $209900 - City: Cape Coral
+95. 1313 SW 16th Ter Apt 101, Cape Coral, FL 33991, USA - Price: $210000 - City: Cape Coral
+96. 1005 SE 40th St Apt 2, Cape Coral, FL 33904, USA - Price: $214900 - City: Cape Coral
+97. 1100 Pondella Rd Apt 504, Cape Coral, FL 33909, USA - Price: $214900 - City: Cape Coral
+98. 4205 SE 19th Ave Apt 203, Cape Coral, FL 33904, USA - Price: $214900 - City: Cape Coral
+99. 621 SE 15th St Apt 116, Cape Coral, FL 33990, USA - Price: $214999 - City: Cape Coral
+100. 830 SW 48th Ter Apt 10, Cape Coral, FL 33914, USA - Price: $215000 - City: Cape Coral
+101. 3916 SE 11th Pl, Cape Coral, FL 33904, USA - Price: $215000 - City: Cape Coral
+102. 3916 SE 11th Pl Apt 503, Cape Coral, FL 33904, USA - Price: $215000 - City: Cape Coral
+103. 4508 Santa Barbara Blvd Apt 102, Cape Coral, FL 33914, USA - Price: $215999 - City: Cape Coral
+104. 4021 SE 19th Ave Apt 103, Cape Coral, FL 33904, USA - Price: $218000 - City: Cape Coral
+105. 4021 SE 19th Ave Apt 201, Cape Coral, FL 33904, USA - Price: $219000 - City: Cape Coral
+106. 321 Cape Coral Pkwy W Apt 103, Cape Coral, FL 33914, USA - Price: $219000 - City: Cape Coral
+107. 5110 SW Courtyards Way Apt 22, Cape Coral, FL 33914, USA - Price: $219000 - City: Cape Coral
+108. 1110 SW 48th Ter Unit 101, Cape Coral, FL 33914, USA - Price: $219000 - City: Cape Coral
+109. 5023 SW 16th Pl Unit 202, Cape Coral, FL 33914, USA - Price: $219700 - City: Cape Coral
+110. 4007 Palm Tree Blvd Apt 105, Cape Coral, FL 33904, USA - Price: $219900 - City: Cape Coral
+111. 708 Victoria Dr Apt 213, Cape Coral, FL 33904, USA - Price: $219900 - City: Cape Coral
+112. 4007 Palm Tree Blvd Apt 105, Cape Coral, FL 33904, USA - Price: $219900 - City: Cape Coral
+113. 3947 Del Sol Ln Unit 203, Cape Coral, FL 33909, USA - Price: $219900 - City: Cape Coral
+114. 4013 Palm Tree Blvd Apt 306, Cape Coral, FL 33904, USA - Price: $220000 - City: Cape Coral
+115. 909 SE 46th Ln Apt 210, Cape Coral, FL 33904, USA - Price: $220000 - City: Cape Coral
+116. 5110 SW Courtyards Way Apt 22, Cape Coral, FL 33914, USA - Price: $220000 - City: Cape Coral
+117. 1514 SW 50th St Apt 204, Cape Coral, FL 33914, USA - Price: $224900 - City: Cape Coral
+118. 4205 SE 19th Ave Apt 202, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+119. 4904 Viceroy St Apt 5, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+120. 1320 Weeping Willow Ct, Cape Coral, FL 33909, USA - Price: $225000 - City: Cape Coral
+121. 1722 Beach Pkwy Apt B3, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+122. 3952 Pomodoro Cir Unit 103, Cape Coral, FL 33909, USA - Price: $225000 - City: Cape Coral
+123. 2904 Tuscan Dr Unit 303, Cape Coral, FL 33909, USA - Price: $225000 - City: Cape Coral
+124. 2904 Tuscan Dr Unit 303, Cape Coral, FL 33909, USA - Price: $225000 - City: Cape Coral
+125. 4015 Palm Tree Blvd Apt 302, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+126. 3711 Del Prado Blvd S Apt 2, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+127. 4018 SE 12th Ave Apt 105, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+128. 3901 SE 11th Pl Apt 103, Cape Coral, FL 33904, USA - Price: $225000 - City: Cape Coral
+129. 4009 Palm Tree Blvd Apt 402, Cape Coral, FL 33904, USA - Price: $227000 - City: Cape Coral
+130. 505 SW 47th Ter Apt 202, Cape Coral, FL 33914, USA - Price: $227000 - City: Cape Coral
+131. 4013 Palm Tree Blvd Apt 301, Cape Coral, FL 33904, USA - Price: $228500 - City: Cape Coral
+132. 1129 Van Loon Commons Cir Apt 303, Cape Coral, FL 33909, USA - Price: $228777 - City: Cape Coral
+133. 3964 Pomodoro Cir Unit 104, Cape Coral, FL 33909, USA - Price: $229000 - City: Cape Coral
+134. 1770 Concordia Lake Cir Unit 3105, Cape Coral, FL 33909, USA - Price: $229000 - City: Cape Coral
+135. 5020 SW Courtyards Way Apt 10, Cape Coral, FL 33914, USA - Price: $229900 - City: Cape Coral
+136. 5510 SW 4th Pl Apt 607, Cape Coral, FL 33914, USA - Price: $229900 - City: Cape Coral
+137. 909 SE 46th Ln Apt 101, Cape Coral, FL 33904, USA - Price: $229900 - City: Cape Coral
+138. 1104 SE 8th St Apt 7, Cape Coral, FL 33990, USA - Price: $230000 - City: Cape Coral
+139. 1210 SE 6th Ter Apt 87, Cape Coral, FL 33990, USA - Price: $230000 - City: Cape Coral
+140. 3944 Pomodoro Cir Unit 204, Cape Coral, FL 33909, USA - Price: $234900 - City: Cape Coral
+141. 3807 SE 11th Pl Unit 1203, Cape Coral, FL 33904, USA - Price: $234900 - City: Cape Coral
+142. 3952 Pomodoro Cir Unit 102, Cape Coral, FL 33909, USA - Price: $234975 - City: Cape Coral
+143. 521 SW 47th Ter Apt 202, Cape Coral, FL 33914, USA - Price: $234999 - City: Cape Coral
+144. 4613 SE 5th Ave Apt 210, Cape Coral, FL 33904, USA - Price: $235000 - City: Cape Coral
+145. 1111 SE 8th Ter Apt 3F, Cape Coral, FL 33990, USA - Price: $235000 - City: Cape Coral
+146. 5510 SW 4th Pl Apt 501, Cape Coral, FL 33914, USA - Price: $235000 - City: Cape Coral
+147. 829 SW 47th Ter Apt 204, Cape Coral, FL 33914, USA - Price: $235000 - City: Cape Coral
+148. 1102 SE 39th Ter Apt 105, Cape Coral, FL 33904, USA - Price: $235000 - City: Cape Coral
+149. 4613 SE 5th Ave Apt 210, Cape Coral, FL 33904, USA - Price: $235000 - City: Cape Coral
+150. 1133 Van Loon Commons Cir Apt 202, Cape Coral, FL 33909, USA - Price: $236000 - City: Cape Coral
+151. 505 SW 47th Ter Apt 104, Cape Coral, FL 33914, USA - Price: $237500 - City: Cape Coral
+152. 4708 SW 8th Pl Apt 102, Cape Coral, FL 33914, USA - Price: $238999 - City: Cape Coral
+153. 4807 Sunset Ct Apt 607, Cape Coral, FL 33904, USA - Price: $239000 - City: Cape Coral
+154. 4613 SE 5th Ave Apt 203, Cape Coral, FL 33904, USA - Price: $239000 - City: Cape Coral
+155. 1518 SW 50th St Apt 103, Cape Coral, FL 33914, USA - Price: $239000 - City: Cape Coral
+156. 4912 Vincennes St Apt 101, Cape Coral, FL 33904, USA - Price: $239000 - City: Cape Coral
+157. 1212 SE 6th Ter Apt 82, Cape Coral, FL 33990, USA - Price: $239000 - City: Cape Coral
+158. 3939 Pomodoro Cir Unit 204, Cape Coral, FL 33909, USA - Price: $239900 - City: Cape Coral
+159. 1512 SW 50th St Apt 303, Cape Coral, FL 33914, USA - Price: $239900 - City: Cape Coral
+160. 4802 Tudor Dr Apt 104, Cape Coral, FL 33904, USA - Price: $239900 - City: Cape Coral
+161. 4613 SE 5th Ave Apt 101, Cape Coral, FL 33904, USA - Price: $239900 - City: Cape Coral
+162. 834 SE 46th St Apt 1A, Cape Coral, FL 33904, USA - Price: $239900 - City: Cape Coral
+163. 1220 SE 6th Ter Apt 60, Cape Coral, FL 33990, USA - Price: $240500 - City: Cape Coral
+164. 4002 Coronado Pkwy Apt 101, Cape Coral, FL 33904, USA - Price: $244900 - City: Cape Coral
+165. 1766 Cape Coral Pkwy E Apt 608, Cape Coral, FL 33904, USA - Price: $244999 - City: Cape Coral
+166. 1027 SE 46th Ln Apt 1A, Cape Coral, FL 33904, USA - Price: $245000 - City: Cape Coral
+167. 4924 Tudor Dr Apt 202, Cape Coral, FL 33904, USA - Price: $245000 - City: Cape Coral
+168. 1109 SE 40th St Apt 102, Cape Coral, FL 33904, USA - Price: $245000 - City: Cape Coral
+169. 47th 1521 Ter, Cape Coral, FL 33914, USA - Price: $245000 - City: Cape Coral
+170. 4017 Palm Tree Blvd Apt 204, Cape Coral, FL 33904, USA - Price: $245500 - City: Cape Coral
+171. 1120 SE 46th St Apt 1C, Cape Coral, FL 33904, USA - Price: $248000 - City: Cape Coral
+172. 5023 SW 16th Pl Unit 101, Cape Coral, FL 33914, USA - Price: $248350 - City: Cape Coral
+173. 5023 SW 16th Pl Unit 101, Cape Coral, FL 33914, USA - Price: $248350 - City: Cape Coral
+174. 5308 Chiquita Blvd S Unit 102A, Cape Coral, FL 33914, USA - Price: $248800 - City: Cape Coral
+175. 4629 SE 5th Ave Apt 203, Cape Coral, FL 33904, USA - Price: $249000 - City: Cape Coral
+176. 1220 SE 40th St Apt 8, Cape Coral, FL 33904, USA - Price: $249000 - City: Cape Coral
+177. 4715 Santa Barbara Blvd Apt F1, Cape Coral, FL 33914, USA - Price: $249000 - City: Cape Coral
+178. 853 SE 46th Ln Apt 202, Cape Coral, FL 33904, USA - Price: $249900 - City: Cape Coral
+179. 1781 Four Mile Cove Pkwy Unit 134, Cape Coral, FL 33990, USA - Price: $249900 - City: Cape Coral
+180. 632 Victoria Dr Apt 104, Cape Coral, FL 33904, USA - Price: $249900 - City: Cape Coral
+181. 4563 SE 5th Pl Apt 205, Cape Coral, FL 33904, USA - Price: $249900 - City: Cape Coral
+182. 4116 SE 19th Ave Unit 101, Cape Coral, FL 33904, USA - Price: $249900 - City: Cape Coral
+183. 1766 Cape Coral Pkwy E Apt 110, Cape Coral, FL 33904, USA - Price: $249900 - City: Cape Coral
+184. 1800 Concordia Lake Cir Unit 2302, Cape Coral, FL 33909, USA - Price: $249900 - City: Cape Coral
+185. 4921 SW 16th Pl, Cape Coral, FL 33914, USA - Price: $249900 - City: Cape Coral
+186. 1518 SW 50th St Apt 204, Cape Coral, FL 33914, USA - Price: $249900 - City: Cape Coral
+187. 904 SE 13th St Apt 201, Cape Coral, FL 33990, USA - Price: $249900 - City: Cape Coral
+188. 5312 Chiquita Blvd S Unit 101B, Cape Coral, FL 33914, USA - Price: $249900 - City: Cape Coral
+189. 1333 SE 40th Ter Apt 2C, Cape Coral, FL 33904, USA - Price: $250000 - City: Cape Coral
+190. 1129 Van Loon Commons Cir Apt 301, Cape Coral, FL 33909, USA - Price: $250000 - City: Cape Coral
+191. 4924 Tudor Dr Apt 103, Cape Coral, FL 33904, USA - Price: $250000 - City: Cape Coral
+192. 5510 SW 4th Pl Apt 601, Cape Coral, FL 33914, USA - Price: $254900 - City: Cape Coral
+193. 1514 SW 50th St Apt 301, Cape Coral, FL 33914, USA - Price: $254900 - City: Cape Coral
+194. 4924 Tudor Dr Apt 203, Cape Coral, FL 33904, USA - Price: $255000 - City: Cape Coral
+195. 1149 Winding Pines Cir Unit 101, Cape Coral, FL 33909, USA - Price: $255900 - City: Cape Coral
+196. 1149 Winding Pines County Rd Unit 101, Cape Coral, FL 33909, USA - Price: $255900 - City: Cape Coral
+197. 1788 Concordia Lake Cir Unit 2707, Cape Coral, FL 33909, USA - Price: $257500 - City: Cape Coral
+198. 1137 Van Loon Commons Cir Apt 204, Cape Coral, FL 33909, USA - Price: $258700 - City: Cape Coral
+199. 1137 Van Loon Commons Cir Apt 204, Cape Coral, FL 33909, USA - Price: $258700 - City: Cape Coral
+200. 4924 Viceroy St Apt B1, Cape Coral, FL 33904, USA - Price: $258900 - City: Cape Coral
+
+Detailed Information for the First Listing:
+Property: 1 Bed, 1 Bath, 753 null
+Address: 4513 SW 8th Ct Apt 111, Cape Coral, Lee 33914
+Price: $132000
+Details: This 1 bedroom 1 bathroom is located in SW Cape Coral, close to shopping, the Westin Hotel, Downtown Cape Coral, Approximately 16 miles to Fort Myers Beach, and 24 miles to Sanibel Island. This condo features an Open Floor plan, and a nice sized lanai. The building was recently painted and has a new roof.
+",1,1,12,723444
+"Users want to get weekly economic indicators and display listings of rental properties in specific cities and states in the United States. First collect weekly data, analyze recent trends, and filter attributes based on the results. For example, if weekly data shows a decline in economic indicators, focus on properties below a certain price threshold; If the economic indicators are stable, we can consider widening the price range. Users can specify locations by city and state to screen and recommend relevant rental properties based on the latest economic trends.",Fail,-1,-1,15,104350
+"Users want to get popular videos based on the specified region and language, allowing users to search for movies or TV shows related to those video titles and then retrieve popular reviews of popular videos of interest. The service should first get popular videos in a particular region. It should then allow users to select a title from a popular video to search for relevant movies or shows and provide detailed metadata about them. Finally, if the user wants to browse the comments of any selected popular video, the service should be able to fetch and display the popular comments related to that video.","Trending Videos Data:
+1. Title: ThatPinkScienceTeacher - Channel: Unknown channel
+2. Title: Megan Thee Stallion - Bigger In Texas [Official Video] - Channel: Unknown channel
+3. Title: F I N A L ｜ Alien Stage - Channel: Unknown channel
+4. Title: Trending Shorts - Channel: Unknown channel
+5. Title: Summer Walker - Heart Of A Woman [Official Lyric Video] - Channel: Unknown channel
+
+Searching for movies or TV shows related to: 'ThatPinkScienceTeacher'
+Failed to retrieve a valid video ID from trending data.",1,1,13,864097
+"A user who wants to find a nearby cafe or restaurant in Paris uses the location ID in a nearby search to retrieve details about a particular business (such as name, contact details, ratings, and hours of operation) and displays user reviews of the selected business. You should first get a list of cafes or restaurants based on the coordinates specified by the user. After you select a particular business from the list, the service retrieves and displays details about that business and uses its location ID. Finally, users should be able to view reviews and feedback on the selected business",Fail,-1,-1,22,89286
+"Users want to search for job opportunities based on specific job titles and locations, retrieve detailed information about the selected position, and estimate the expected salary for that position in a given region. The service should first obtain a list of job posts based on user-defined criteria such as job title, location, and Posting date. Users can then select a job from the search results to get other details, such as app links and employer information. Finally, the service should provide an estimated salary range for selected positions in the same region to help users assess potential earnings.","Job Search Results:
+1. Job Title: No title available - Company: No company information available - Location: No location available - Job ID: hQ_qGqqYxnh2nW31AAAAAA==
+2. Job Title: No title available - Company: No company information available - Location: No location available - Job ID: qoE2sLWeZIPC_ULHAAAAAA==
+3. Job Title: No title available - Company: No company information available - Location: No location available - Job ID: 6JZJ1XpxEeEsghKhAAAAAA==
+4. Job Title: No title available - Company: No company information available - Location: No location available - Job ID: 626OB_pvS-CuKZRZAAAAAA==
+5. Job Title: No title available - Company: No company information available - Location: No location available - Job ID: wId2R2Yukp4o-KxvAAAAAA==
+
+Job Details for Job ID hQ_qGqqYxnh2nW31AAAAAA==:
+Job Title: Software Development Engineer
+Company: Adobe
+Location: San Francisco, CA
+Description: JOB LEVEL
+P50
+
+EMPLOYEE ROLE
+Individual Contributor
+
+The Challenge
+
+We are seeking an experienced Senior Software Engineer to join a highly motivated and fast-paced team, building a new creativity platform that will help define the future of Creative Cloud and Adobe’s Digital Media business! You will need a keen eye for details and high standards for design, code quality, and efficiency. People who enjoy taking on complex technical challenges, have a real passion for delighting customers, and who are self-motivated to push themselves in a team-oriented culture will thrive in our environment.
+
+What You’ll Do:
+
+On the Developer Experience team, we are responsible for increasing the velocity and scale of our development team by providing easy to use development environments, infrastructure and collaborating with other peers and product managers to create a compelling and seamless developer experience on a multi-tenant web application platform. These systems are highly reliable, performant, and continuously address the most important development needs while ensuring commits meet the rigorous check-in gates and deployment guidelines.
+
+You’ll work with some of the best designers and engineers to integrate with 3rd party content partners, extend current Adobe ecosystems.
+
+Responsibilities:
+• Design and develop reliable Continuous Delivery Pipeline for developing, building, testing, and deployment desktop, mobile, and service offerings.
+• Maintain and support internal cloud-based automation systems: infrastructure and environment, build and test tools, automation orchestration, reports, and dashboards.
+• Collect, refine, and prioritize needs from the engineering team.
+• Work closely with engineering team members to integrate automation tools into daily processes.
+• Build tools, dashboards, and other related infrastructure to help improve the development experience for our engineers.
+• Work well both independently and collaboratively within a fast-moving global development team with clear, positive, and constructive communication.
+• Influence the growth of a team DevOps culture and mindset.
+
+Requirements:
+• Based in San Francisco/San Jose/Seattle
+• Educational Background: Bachelor’s degree in computer science or a related field. Master’s degree preferred.
+• 7+ years of experience working on build and release infrastructure
+• Experience developing software for multiple devices and platforms.
+• Familiarity with automated building and testing of desktop, service, and web-delivered software.
+• Strong written and verbal communication skills
+• Experience administering Linux, Mac, and Windows systems
+• CI/CD Knowledge: Hands-on experience with Continuous Integration and Continuous Deployment tools like Jenkins, CircleCI, Travis CI, and GitHub Actions. Familiarity with container orchestration platforms such as Kubernetes is a plus.
+• Familiarity with Bazel a plus
+• Developer Productivity Tools: Experience with developer productivity and collaboration tools such as Jira, Confluence, Slack, and VS Code extensions or plugins.
+• Familiarity and experience with relevant automation technologies:
+• TypeScript/Node, Python, Groovy, Bash
+• Webpack, RushJS, npm
+• Kubernetes, Docker
+• Familiarity with Cloud platforms like AWS and Azure
+• Experience with Agile development processes including Scrum.
+
+Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $154,000 -- $278,800 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+
+Internal Opportunities
+
+Creativity, curiosity, and constant learning are celebrated aspects of your career growth journey. We’re glad that you’re pursuing a new opportunity at Adobe!
+
+Put your best foot forward:
+
+1. Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work.
+
+2. Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in.
+
+3. Check out these tips to help you prep for interviews.
+
+4. If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll.
+
+Once you apply for a role via Workday, the Talent Team will reach out to you within 2 weeks. If you move into the official interview process with the hiring team, make sure you inform your manager so they can champion your career growth.
+
+At Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
+
+Adobe is an equal opportunity and affirmative action employer. We welcome and encourage diversity in the workplace regardless of gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other characteristics protected by law.
+
+If you have a disability or special need that requires accommodation to navigate our internal careers site or to complete the application process, please contact accommodations@adobe.com.
+Apply Link: https://careers.adobe.com/us/en/job/R147427/Software-Development-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+
+Salary Estimation for 'Software Engineer' in San Francisco, CA, USA:
+ - Publisher: Indeed | Min: $None | Max: $None | Median: $70
+ - Publisher: Levels | Min: $153000 | Max: $250000 | Median: $188000
+ - Publisher: Builtinsf | Min: $80000 | Max: $300000 | Median: $162000
+",1,1,11,561924
+"Develop a houseplant exploration service to help users browse different categories of houseplants, especially ferns. Users can view a list of all available plant categories, select a category and get detailed information about ferns in it (including common names, pictures, and climate adaptations). In addition, the service also provides a general overview of houseplants, showing basic information such as classification, scientific name and growing region, so that users can have a more comprehensive understanding of various houseplants.",Fail,-1,-1,23,98158
+"Explore detailed business and location information based on the address or coordinates provided by the user. First retrieve the geographic details of a given address, including its latitude, longitude, and time zone. Once the location is determined, nearby businesses should be found on the specified coordinates, including operational details and ratings. Finally, for any business selected, details such as name, address, review, and working hours should be retrieved and displayed.",Fail,-1,-1,27,79561
+"Build a service that allows users to search for Reddit posts on a specific topic or within a subreddit, retrieve hot or top posts from a specific subreddit, and get detailed information about individual posts. The service should begin by allowing users to search Reddit posts using specific keywords, subreddit filters, and sort options. After displaying the results, users can retrieve a list of trending posts (hot or top) from a particular subreddit. For selected posts, detailed metadata such as the title, author, and engagement metrics should be fetched.","Search Results:
+1. Title: After 4 years of investing I made $16 lol - Author: raseC_Ceda - Score: 28979 - URL: /r/wallstreetbets/comments/1ctf81t/after_4_years_of_investing_i_made_16_lol/
+2. Title: If investing is so easy, why doesn't everybody do it? - Author: precita - Score: 544 - URL: /r/Bogleheads/comments/1aohea2/if_investing_is_so_easy_why_doesnt_everybody_do_it/
+3. Title: [OC] Why you should start investing early in life - Author: PieChartPirate - Score: 19619 - URL: /r/dataisbeautiful/comments/wo6fpu/oc_why_you_should_start_investing_early_in_life/
+4. Title: Does Investing Actually Work? - Author: Low_Entry5644 - Score: 96 - URL: /r/stocks/comments/1694h71/does_investing_actually_work/
+5. Title: How do I start investing? - Author: MirafuCh - Score: 5 - URL: /r/ValueInvesting/comments/18410ic/how_do_i_start_investing/
+
+Subreddit Posts (Hot):
+1. Title: Weekend Discussion Thread for the Weekend of October 25, 2024 - Author: wsbapp - Score: 66 - URL: https://www.reddit.com/r/wallstreetbets/comments/1gc374e/weekend_discussion_thread_for_the_weekend_of/
+2. Title: Weekly Earnings thread 10/28 - 11/1 - Author: OSRSkarma - Score: 300 - URL: https://i.redd.it/xy8kbewinywd1.jpeg
+3. Title: New York Stock Exchange to extend trading hours to 22 hours a day.  - Author: Maximum_Fill987 - Score: 3941 - URL: https://i.redd.it/fk0gh5kvb0xd1.jpeg
+4. Title: Turned $10k into $172k in one trade. You guys told me to sell, so I held - Author: vuw960 - Score: 15484 - URL: https://www.reddit.com/gallery/1gc45oi
+5. Title: Just protecting retail traders - Author: King-of-Plebss - Score: 2172 - URL: https://i.redd.it/1ye15t7rg0xd1.jpeg
+
+DEBUG: Post details API response data:
+{'meta': {'version': 'v1.0', 'status': 200, 'copywrite': 'https://apicalls.io', 'totalComments': 83}, 'body': {'post': {'approved_at_utc': None, 'subreddit': 'wallstreetbets', 'selftext': 'This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1gc374e)', 'user_reports': [], 'saved': False, 'mod_reason_title': None, 'gilded': 0, 'clicked': False, 'title': 'Weekend Discussion Thread for the Weekend of October 25, 2024', 'link_flair_richtext': [{'e': 'text', 't': 'Weekend Discussion'}], 'subreddit_name_prefixed': 'r/wallstreetbets', 'hidden': False, 'pwls': 7, 'link_flair_css_class': 'weekend', 'downs': 0, 'thumbnail_height': None, 'top_awarded_type': None, 'hide_score': False, 'name': 't3_1gc374e', 'quarantine': False, 'link_flair_text_color': 'dark', 'upvote_ratio': 0.88, 'author_flair_background_color': None, 'subreddit_type': 'public', 'ups': 63, 'total_awards_received': 0, 'media_embed': [], 'thumbnail_width': None, 'author_flair_template_id': None, 'is_original_content': False, 'author_fullname': 't2_qbvp0eq8b', 'secure_media': None, 'is_reddit_media_domain': False, 'is_meta': False, 'category': None, 'secure_media_embed': [], 'link_flair_text': 'Weekend Discussion', 'can_mod_post': False, 'score': 63, 'approved_by': None, 'is_created_from_ads_ui': False, 'author_premium': False, 'thumbnail': 'self', 'edited': False, 'author_flair_css_class': None, 'author_flair_richtext': [], 'gildings': [], 'content_categories': None, 'is_self': True, 'mod_note': None, 'created': 1729886233, 'link_flair_type': 'richtext', 'wls': 7, 'removed_by_category': None, 'banned_by': None, 'author_flair_type': 'text', 'domain': 'self.wallstreetbets', 'allow_live_comments': False, 'selftext_html': '&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This post contains content not supported on old Reddit. &lt;a href=""https://sh.reddit.com/r/wallstreetbets/comments/1gc374e""&gt;Click here to view the full post&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;', 'likes': None, 'suggested_sort': 'new', 'banned_at_utc': None, 'view_count': None, 'archived': False, 'no_follow': False, 'is_crosspostable': True, 'pinned': False, 'over_18': False, 'all_awardings': [], 'awarders': [], 'media_only': False, 'can_gild': False, 'spoiler': False, 'locked': False, 'author_flair_text': None, 'treatment_tags': [], 'visited': False, 'removed_by': None, 'num_reports': None, 'distinguished': None, 'subreddit_id': 't5_2th52', 'author_is_blocked': False, 'mod_reason_by': None, 'removal_reason': None, 'link_flair_background_color': '', 'id': '1gc374e', 'is_robot_indexable': True, 'num_duplicates': 0, 'report_reasons': None, 'author': 'wsbapp', 'discussion_type': None, 'num_comments': 3972, 'send_replies': False, 'media': None, 'contest_mode': False, 'author_patreon_flair': False, 'author_flair_text_color': None, 'permalink': '/r/wallstreetbets/comments/1gc374e/weekend_discussion_thread_for_the_weekend_of/', 'stickied': True, 'url': 'https://www.reddit.com/r/wallstreetbets/comments/1gc374e/weekend_discussion_thread_for_the_weekend_of/', 'subreddit_subscribers': 16922418, 'created_utc': 1729886233, 'num_crossposts': 0, 'mod_reports': [], 'is_video': False}, 'post_comments': [{'id': 'ltvwgjo', 'author': 'cryptohorn', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729966270, 'content': 'People at the rally thought they were getting bey-once but got willie Nelson instead ![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)![img](emote|t5_2th52|4271)'}, {'id': 'ltvw9yh', 'author': 'OB1KENOB', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729966210, 'content': 'Whiplash doesn’t make any sense. No one on earth would leave Supergirl to play jazz drums.'}, {'id': 'ltvw733', 'author': 'BigBoiBenisBlueBalls', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729966183, 'content': 'My grandpa is in his 80s but still has a full head of hair. It’s thinned a lot but still good. If he were to take fin and minoxidil would it become thicker? This won’t happen but I’m just curious'}, {'id': 'ltvw4xr', 'author': 'Anoos_specialist', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729966163, 'content': '![img](emote|t5_2th52|4260)'}, {'id': 'ltvw3q0', 'author': 'Anoos_specialist', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729966152, 'content': 'Carefully waiting for the next dump. And THEN I POUNCE like a total regard!'}, {'id': 'ltvvv5o', 'author': 'lipmanz', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729966072, 'content': 'David Goggins is a hard worker but I think appeals most to dudes with a humiliation fetish'}, {'id': 'ltvvpbd', 'author': 'NotSoTough-Tony', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729966019, 'content': 'Breaking News: 🥭 announce if he wins, Ivanka will be releasing her porno films on Pornhub every month during his term\xa0'}, {'id': 'ltvvjr8', 'author': 'AquamDeus', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729965968, 'content': ""Don't care who wins the election, simply trying to profit. Calls or puts on DJT?""}, {'id': 'ltvvfma', 'author': 'oregonLov', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965929, 'content': 'When tf did talking about the leader of the US become banned?\n\nTariffs gon crash my stock'}, {'id': 'ltvv4ly', 'author': 'DeepSweatyButthole', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729965827, 'content': 'Lot of mango banners and flags in front of peoples houses. The time is near ![img](emote|t5_2th52|12787)'}, {'id': 'ltvuqko', 'author': '[deleted]', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729965695, 'content': '[removed]'}, {'id': 'ltvuou3', 'author': 'warlock22041', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729965679, 'content': ""AMD 170 please god. I'll never gamble again""}, {'id': 'ltvtzx5', 'author': 'mysuruhuduga', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965448, 'content': 'I told this bmw dealership to give me 3.99% on this used 2023 3 series with &lt; 5k miles else I would wait until jpow will cut the interest rate in Nov/ Dec meeting\n\nThey are offering 3.99% on 2019-2022, either they agree to my deal else they can duck off'}, {'id': 'ltvtzqa', 'author': 'WildConsideration376', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965446, 'content': 'War is so bullish..next week run fueled by big cap earnings will send spy to $600.Next week will birth thousandnaires &amp; millionaires..all you have to do is drop otm calls &amp; puts on 5 big stocks'}, {'id': 'ltvtyub', 'author': 'spellbadgrammargood', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965438, 'content': 'i took 2 ""i voted"" stickers.. does this make me a felon?'}, {'id': 'ltvtynq', 'author': 'smart_doge', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729965436, 'content': 'Lunch time 🍝 ![img](emote|t5_2th52|4258)'}, {'id': 'ltvtqh2', 'author': 'Totallynotfakenews', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729965361, 'content': 'CVNA has to be a big earnings dump right?'}, {'id': 'ltvtmr0', 'author': 'DeepSweatyButthole', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729965326, 'content': 'What do you think about starting the bike ride off with a little 53rd and 3rd, You’re Gonna Kill that girl and then going right into Red Fucken Hot 🤔'}, {'id': 'ltvtjhy', 'author': 'VisualMod', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965297, 'content': '#Ban Bet Lost\n\n/u/No_Onion_8612 made a bet that TSLA would go to 200.0 within **5 days** when it was 217.865 and it did not, so they were banned for a week.\n\nTheir record is now 0 wins and 1 losses\n\n[**Join WSB Discord**](http://discord.gg/wsbverse)'}, {'id': 'ltvtb5b', 'author': 'lipmanz', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729965220, 'content': 'When I was in college I had a classmate who’s dad owned some big company in Brazil, drove a Ferrari to class and had his own beachfront condo at 19…we were playing doubles tennis with 2 hot chicks and he just whipped his thing out and starting running around the court as a “joke”, wonder whatever happened to him'}, {'id': 'ltvszaw', 'author': 'Rich265', 'up_votes': -1, 'score': -1, 'likes': '', 'created_utc': 1729965110, 'content': 'Democrats blame Republicans for, “tax cuts that led to low revenue levels that increased the debt.”\n\nLet\'s see.. Tax Cuts took effect in 2018.\n\nTax Revenues for 2018:  $3.33 trillion  \nTax Revenues for 2023:  $4.44 trillion\n\nA 33% increase in tax revenue caused debt to increase?\n\nLet\'s see what the non-partisan Congressional Budget Office report said on the tax cuts..\n\n""CBO also estimated the macroeconomic feedback resulting from the tax act. CBO estimated that the economic changes resulting from the act—not including its effects on debt service—would reduce primary deficits by $0.571 trillion over the 2018–2028 period. The main reason was that the act would boost taxable income and thus federal revenues.""\n\nOh, they say it would reduce deficits due to boosting federal revenues.. weird!'}, {'id': 'ltvsrxk', 'author': 'strictlyPr1mal', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729965043, 'content': ""I will be banned next week, but just know I'm still going to be yoloing on earnings every day""}, {'id': 'ltvsraw', 'author': 'lipmanz', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729965037, 'content': 'IMO the pundits claiming no hike on the 7th are wrong, the whole point is to bring rates down which hasn’t happened, in fact they are practically where they were before the last cut'}, {'id': 'ltvskbg', 'author': 'isolated-cat', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729964974, 'content': 'should i call the cute girl who approached me last night and left me her number? she was texting me last night once she left, so i do believe that she was interested. my gut says to just call her today and get it out of the system. what do i got to lose? right fellas? should i wait another day?'}, {'id': 'ltvsgt4', 'author': 'DeepSweatyButthole', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729964943, 'content': 'We are men! We shit in our pants and grab each others cocks!'}, {'id': 'ltvsfce', 'author': 'Coffee_Buzzzz', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729964929, 'content': 'I expect things to change for the better without changing myself or doing anything different ![img](emote|t5_2th52|12787)'}, {'id': 'ltvs8vf', 'author': 'AngusMcTibbins', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729964869, 'content': 'Beautiful fall day. Got a fresh cup of coffee sitting on the edge of the tub while I sit on the toilet for a relaxing poop. Life is good, my friends ![img](emote|t5_2th52|8882)'}, {'id': 'ltvs1rg', 'author': 'luoyuke', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729964804, 'content': ""feel like it will be a sell on the news no matter what happens. No one knows how to react, in a situation like this it's always sell first and jump in later""}, {'id': 'ltvs1ej', 'author': 'Slow-Information-847', 'up_votes': -1, 'score': -1, 'likes': '', 'created_utc': 1729964801, 'content': 'stocks will be up big time next Monday. Iran just said they will retaliate.'}, {'id': 'ltvrrvj', 'author': 'Blazzck7', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729964715, 'content': 'Rolling the dice on some otm tesla calls for 3 weeks out \U0001fae1'}, {'id': 'ltvr8rk', 'author': 'goodbuddyedb', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729964540, 'content': ""Plunge protection ain't got shit on my puts . Suck it you dumb sheep that think you are 'bulls'""}, {'id': 'ltvqt7g', 'author': 'SwiftSG1', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729964403, 'content': 'Election pump. Rate cut pump. Santa pump. Then fomo pump because it’s up so much. ![img](emote|t5_2th52|4258)'}, {'id': 'ltvqeew', 'author': 'GenericUser4104', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729964271, 'content': 'Bers furiously refreshing BBC News for more war porn'}, {'id': 'ltvqb49', 'author': 'wildcat1055', 'up_votes': 5, 'score': 5, 'likes': '', 'created_utc': 1729964242, 'content': 'I thought I was one of the worst, horniest and most degenerate gamblers out there, but I just found out about the regards losing money on Taylor Mathis meme coin. There are levels to this shit.\n\nGod Bless America!'}, {'id': 'ltvq4oz', 'author': 'Razvanell95', 'up_votes': 5, 'score': 5, 'likes': '', 'created_utc': 1729964186, 'content': 'I sold a big part of my portfolio right before this great month. I want to stop smelling like disappointment. ![img](emote|t5_2th52|4260)\n\nCan someone recommend me a good fragrance?'}, {'id': 'ltvpvnu', 'author': 'necarpenter417', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729964105, 'content': 'Dang. Somehow I lost 12k last week.'}, {'id': 'ltvpv5l', 'author': 'SilentHillFan12', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729964101, 'content': 'So what - they ban you now just for posting 600 times a day in the daily thread? This fucking country'}, {'id': 'ltvpeln', 'author': 'rufus170', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729963951, 'content': 'When is LUNR gonna moon? So far i’ve only seen jumps to around 8,50 but i’ve been expecting much more, just like a lot of the ppl on this sub\n\nI’m patient, it’s just taking longer than what i was thinking'}, {'id': 'ltvp9wd', 'author': 'EnginrA', 'up_votes': 6, 'score': 6, 'likes': '', 'created_utc': 1729963909, 'content': 'They used to call me Johnny Thickloads ![img](emote|t5_2th52|4275)'}, {'id': 'ltvovtr', 'author': 'rc5193', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963783, 'content': 'Who else pops a large chunk of their port into corn for the weekend for the pumps? Is this addiction? ![img](emote|t5_2th52|4271)'}, {'id': 'ltvohan', 'author': 'BigBoiBenisBlueBalls', 'up_votes': -3, 'score': -3, 'likes': '', 'created_utc': 1729963650, 'content': 'Anyone excited for Tyler the creators new album? I haven’t listened to any of the songs from it yet but I don’t really care for it or him anymore. What bugs me about him is his clothing brand. Golf wang. Shit is expensive AND shit quality. The t shirts felt like paper. It’s awful. Also he kept releasing terrible designs for at least 2 years. He kept putting out shit so I stopped listening to him'}, {'id': 'ltvo83y', 'author': 'sloanemonroe', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963568, 'content': 'I have covid. Anyone want to come over and hang out?'}, {'id': 'ltvo43f', 'author': 'Diamondhands4dagainz', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729963531, 'content': 'Watching top gun, it better have my favourite plane ever: F-22 raptor $LMT'}, {'id': 'ltvnv12', 'author': 'StockMarketDavid', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963448, 'content': 'I invested 15K at 10.50$ into the ****ware stock that seems to follow DJT 👀 im thinking leading into election it go up then fall off day before election and the week after ( regardless of winner ) what yall thinking lol'}, {'id': 'ltvnttd', 'author': 'VisualMod', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963437, 'content': '#Ban Bet Lost\n\n/u/Cantthinkofacoolnam made a bet that NOW would go to 1000.0 within **1 week** when it was 922.375 and it did not, so they were banned for a week.\n\nTheir record is now 1 wins and 2 losses\n\n[**Join WSB Discord**](http://discord.gg/wsbverse)'}, {'id': 'ltvnq8d', 'author': 'ScoopityWoop89', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963404, 'content': 'Are apple calls regarded?'}, {'id': 'ltvnm5p', 'author': 'Funny_Story2759', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963366, 'content': 'when i roll these options to shares after moass ima petition to rename purecycle to PlasticStop'}, {'id': 'ltvnhgs', 'author': 'mcs5280', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963325, 'content': ""tfw your choice in the Halloween candy basket is a candy that is obviously poisoned and bad for you or a candy that isn't obviously poisoned but\xa0you strongly dislike it and you'd rather not choose either""}, {'id': 'ltvnbxn', 'author': 'joe_bidens_underwear', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729963275, 'content': '\nThink MARA gets back to $20 soon?'}, {'id': 'ltvn8gz', 'author': 'WSBNon-Believer', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729963244, 'content': 'All around me are familiar faces'}, {'id': 'ltvn858', 'author': 'Learningcurvve', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729963241, 'content': '#$311.53\n\nTSLA hits a $1T market cap'}, {'id': 'ltvn1r4', 'author': 'alittlerogue', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729963185, 'content': 'Thinking aloud, in my play acc I am up 45% on NVDA shares with avg cost $99. I have $17k loss in fucking POS Nio. Should I sell both and collect profit or sell Nio and ride out NVDA? Still have NVDA in my retirement since 2017. Just weary on elections playing out and the selling chips to China sentiment.'}, {'id': 'ltvmtds', 'author': 'spy69eod', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729963108, 'content': 'Market sell off has just begun bols. Enjoy being exit liquidity'}, {'id': 'ltvlp5t', 'author': 'Ok_Ambassador_4311', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729962743, 'content': 'https://www.instagram.com/reel/DArBEPjPHDA/?igsh=Y3N0dWRpdHdmZTNz me at Wall St in 5 years'}, {'id': 'ltvlevn', 'author': 'Accomplished_Dot9815', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729962651, 'content': 'Sup faggets'}, {'id': 'ltvkwp3', 'author': 'No-Improvement3164', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729962485, 'content': 'What are the chances of Meta Netflix and NVDA ever selling off like they did a couple years ago.'}, {'id': 'ltvkuhh', 'author': 'ChildhoodOpening3360', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729962465, 'content': 'Started my account at the beg of month with 1.5k. Consistently was up until 13.8k then got cocky and bought dumb shit. Lost 11k of it yesterday and for some reason bought calls going into the weekend. Usually only make money flipping between 945am and 11am each day but might be fucked with these series of abysmal decisions.\n\nHolding options for any length of time is how I lose my port'}, {'id': 'ltvjylc', 'author': 'E39_CBX', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729962175, 'content': 'I need to turn 8k into 30k by EOY what’s the play'}, {'id': 'ltvjx1e', 'author': 'Ok_Pineapple_5700', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729962160, 'content': ""Don't be so humble, you're not that great""}, {'id': 'ltvj4ab', 'author': 'cinJESUS', 'up_votes': -1, 'score': -1, 'likes': '', 'created_utc': 1729961904, 'content': 'can this Elon fucker let me invest in spacex? ![img](emote|t5_2th52|27421)![img](emote|t5_2th52|27421)![img](emote|t5_2th52|27421)'}, {'id': 'ltvitop', 'author': 'yeetwagon', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729961809, 'content': 'Can’t wait to buy $7,000 of RTX on January 1st ![img](emote|t5_2th52|4258)'}, {'id': 'ltvim0h', 'author': 'Nomynametoday', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729961740, 'content': 'How do u guys play weekly calls, if the company’s earnings is on friday?'}, {'id': 'ltvi984', 'author': 'Heedunk', 'up_votes': 5, 'score': 5, 'likes': '', 'created_utc': 1729961625, 'content': 'The next 1.5 weeks are going to be crazy with tech earnings, Halloween, and the election!'}, {'id': 'ltvi5df', 'author': 'ManBearPig_1983', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729961590, 'content': 'McDonald’s frosty machine down AGAIN!! Wtf'}, {'id': 'ltvi4fr', 'author': 'BigDiplomacy', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729961582, 'content': ""Nothing like a relaxing Saturday day, meal-prepping some protein packed meals for your wife's boyfriend.""}, {'id': 'ltvi3kp', 'author': 'LarryStink', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729961574, 'content': 'Going to close all open positions this week, except my TLT puts, and open a single SPX 1wte long condor betting on volatility from earnings this week. Skewed with lower put deltas as I see risk to the downside as greater and the move would be larger and faster than to the upside. And I will hesitate to get directional with any size until after this week is over.\xa0'}, {'id': 'ltvi0w2', 'author': 'Ok_Pineapple_5700', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729961551, 'content': ""Easy to spot when he's full of shit""}, {'id': 'ltvhhp1', 'author': 'digdugbug', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729961377, 'content': 'If I had a million could have lost them yesterday! Glad I only had 5k.'}, {'id': 'ltvh8e1', 'author': 'Resident_Pudding_681', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729961293, 'content': 'sad boi hours already startin I see'}, {'id': 'ltvgs14', 'author': 'Slizano12', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729961144, 'content': ""Still waiting for we ride to go public and make an official. In the meantime been buying up chubb and Amazon because it's almost Christmas I have a feeling Amazon is just got rocket along with Alibaba and Bank of America because everybody's going to get swipe happy. Plus I don't know why I have a feeling that Bitcoin my skyrocket.""}, {'id': 'ltvgjbp', 'author': 'LarryStink', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729961066, 'content': 'Had I not been a brokie and used more money for that trade, say 17,000 instead of 170, I would have made 200,000$ in a day instead of 2,000'}, {'id': 'ltvfy5z', 'author': 'BushLov3r', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729960873, 'content': 'Sentiment is pretty shit on google, might be the perfect call play because of it'}, {'id': 'ltvfnto', 'author': 'yaboiRich', 'up_votes': 4, 'score': 4, 'likes': '', 'created_utc': 1729960779, 'content': 'Just jacked off. What do now?'}, {'id': 'ltvf8dr', 'author': 'Slizano12', 'up_votes': 1, 'score': 1, 'likes': '', 'created_utc': 1729960640, 'content': 'This last week the market was all over the place wtf!!!'}, {'id': 'ltvf3yi', 'author': 'Hwangoutpltr', 'up_votes': 5, 'score': 5, 'likes': '', 'created_utc': 1729960599, 'content': '#🥭'}, {'id': 'ltveuwi', 'author': 'UsernameTaken_123', 'up_votes': 7, 'score': 7, 'likes': '', 'created_utc': 1729960517, 'content': 'Penis day'}, {'id': 'ltvepp6', 'author': 'felipesizzosmoes', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729960469, 'content': 'Back day'}, {'id': 'ltvedf5', 'author': 'Glowie-in-Chief', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729960358, 'content': '#The WEAVE'}, {'id': 'ltveb9d', 'author': 'nerdy-nate', 'up_votes': 2, 'score': 2, 'likes': '', 'created_utc': 1729960339, 'content': 'I bought a TOGA costume from Spirit Halloween for $20 last night and it FUCKINNNN SUCKSSS (I know, I know, $20). Anyways, there is a costume/halloween party theme at this nightclub me and my friends are going to tonight and I need a new costume ASAP! Is anyone here doing a low-effort costume or anyone have any ideas on what I could quickly throw together for a half-ass costume? ![img](emote|t5_2th52|4271)'}, {'id': 'ltve9v6', 'author': 'MSTR_CallsAtOpen', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729960326, 'content': 'I loaded up on MSTR calls for over the weekend because I believe Bitcoin could be about to break out. If I am right I am rich'}, {'id': 'ltve0wa', 'author': 'DeepSweatyButthole', 'up_votes': 0, 'score': 0, 'likes': '', 'created_utc': 1729960245, 'content': '#McCREAM!!!!!!!!!'}, {'id': 'ltvdzir', 'author': 'isolated-cat', 'up_votes': 3, 'score': 3, 'likes': '', 'created_utc': 1729960233, 'content': 'anyone else feeling that mag7 earnings will be mild and not very strong bringing the market further down?'}, {'id': 'ltvcpb6', 'author': '', 'up_votes': '', 'score': '', 'likes': '', 'created_utc': '', 'content': ''}]}}
+
+Post Details:
+Title: Weekend Discussion Thread for the Weekend of October 25, 2024
+Author: wsbapp
+Upvotes: 63
+Comments: 3972
+Content: This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/wallstreetbets/comments/1gc374e)
+",1,1,10,456540
+"The service allows users to retrieve and explore global language information, get a list of all available languages, and see the country information for each language. In addition, users can choose to view a list of all countries in the world, regardless of language, to support a wider range of references. The service validates the API response format to ensure that it can accommodate different data return structures.",Fail,-1,-1,27,96277
+"This service retrieves detailed information about vehicle types and engine specifications. It first lists all available vehicle types, each identified by a unique ID and category. For a selected vehicle type, the service fetches technical specifications such as manufacturer, model, and engine attributes. Additionally, the service allows for retrieving specific engine details for a selected model, focusing on attributes like engine power, production dates, fuel type, and engine codes.",Fail,-1,-1,28,95321
+"Users can query a list of countries that speak that language with a specific language ID and retrieve related historical events based on a specified year. If no eligible country or historical event is found, the system will kindly inform the user ""No valid country data"" or ""No historical event found for that year."" The service is designed to help users filter important historical information by language and year.","### Countries for Specified Language ID ###
+1. Austria (Code: A)
+2. Yemen (People's Democratic Republic) (Code: ADN)
+3. Except Europe (Code: AEU)
+4. Afghanistan (Code: AFG)
+5. Anguilla (Code: AIA)
+6. Africa (Code: AK)
+7. Albania (Code: AL)
+8. Central America (Code: AM)
+9. Netherlands Antilles (Code: AN)
+10. Andorra (Code: AND)
+11. Angola (Code: ANG)
+12. Asia / Pacific (Code: APA)
+13. Antarctica (Code: AQ)
+14. Armenia (Code: ARM)
+15. South America (Code: AS)
+16. ASEAN (Code: ASE)
+17. American Samoa (Code: ASM)
+18. Antigua (Code: ATG)
+19. Australia (Code: AUS)
+20. Aruba (Code: AW)
+
+### Historical Events ###
+- Year: 400
+  Event: Begins the decline of Maya culture and language in some parts of the highlands.
+  Event ID: 215
+---",1,1,12,668736
+"I want to create a service that retrieves yarn brands and their details, including brand name, brand ID, number of available yarns, and number of color variations. In addition, the service should support the retrieval of a list of available yarn weights and display each weight category and its corresponding yarn quantity. Users can use the service to browse different yarn brands and filter according to the desired yarn weight to find specific yarn types more efficiently.",Fail,-1,-1,29,85532
+"Users calculate a new date by adding or subtracting a specified number of business days from a given start date, taking into account holidays and non-working days in a particular country. In addition, a list of non-working days (such as holidays) between two dates in the specified country should be retrieved. Allows users to calculate future or past work dates and learn which dates are considered invalid in a given country.","### New Date Calculation ###
+- New Date After Increment: 2023-10-16
+- Total Working Days in Period: 10
+- Work Hours in Period: 80
+- Public Holidays in Period: 1
+  - 2023-10-09: Thanksgiving
+
+### Non-Working Days ###
+- 2023-01-01 (Special Day): New Year's Day
+- 2023-01-02 (Public Holiday): New Year's Day
+- 2023-01-07 (Weekend): weekend day
+- 2023-01-08 (Weekend): weekend day
+- 2023-01-14 (Weekend): weekend day
+- 2023-01-15 (Weekend): weekend day
+- 2023-01-21 (Weekend): weekend day
+- 2023-01-22 (Weekend): weekend day
+- 2023-01-26 (Public Holiday): Australia Day
+- 2023-01-28 (Weekend): weekend day
+- 2023-01-29 (Weekend): weekend day
+- 2023-02-04 (Weekend): weekend day
+- 2023-02-05 (Weekend): weekend day
+- 2023-02-11 (Weekend): weekend day
+- 2023-02-12 (Weekend): weekend day
+- 2023-02-18 (Weekend): weekend day
+- 2023-02-19 (Weekend): weekend day
+- 2023-02-25 (Weekend): weekend day
+- 2023-02-26 (Weekend): weekend day
+- 2023-03-04 (Weekend): weekend day
+- 2023-03-05 (Weekend): weekend day
+- 2023-03-11 (Weekend): weekend day
+- 2023-03-12 (Weekend): weekend day
+- 2023-03-13 (Public Holiday): Canberra Day
+- 2023-03-18 (Weekend): weekend day
+- 2023-03-19 (Weekend): weekend day
+- 2023-03-25 (Weekend): weekend day
+- 2023-03-26 (Weekend): weekend day
+- 2023-04-01 (Weekend): weekend day
+- 2023-04-02 (Weekend): weekend day
+- 2023-04-07 (Public Holiday): Good Friday
+- 2023-04-08 (Special Day): Easter Saturday
+- 2023-04-09 (Special Day): Easter Sunday
+- 2023-04-10 (Public Holiday): Easter Monday
+- 2023-04-15 (Weekend): weekend day
+- 2023-04-16 (Weekend): weekend day
+- 2023-04-22 (Weekend): weekend day
+- 2023-04-23 (Weekend): weekend day
+- 2023-04-25 (Public Holiday): Anzac Day
+- 2023-04-29 (Weekend): weekend day
+- 2023-04-30 (Weekend): weekend day
+- 2023-05-06 (Weekend): weekend day
+- 2023-05-07 (Weekend): weekend day
+- 2023-05-13 (Weekend): weekend day
+- 2023-05-14 (Weekend): weekend day
+- 2023-05-20 (Weekend): weekend day
+- 2023-05-21 (Weekend): weekend day
+- 2023-05-27 (Weekend): weekend day
+- 2023-05-28 (Weekend): weekend day
+- 2023-05-29 (Public Holiday): Reconciliation Day
+- 2023-06-03 (Weekend): weekend day
+- 2023-06-04 (Weekend): weekend day
+- 2023-06-10 (Weekend): weekend day
+- 2023-06-11 (Weekend): weekend day
+- 2023-06-12 (Public Holiday): King's Birthday
+- 2023-06-17 (Weekend): weekend day
+- 2023-06-18 (Weekend): weekend day
+- 2023-06-24 (Weekend): weekend day
+- 2023-06-25 (Weekend): weekend day
+- 2023-07-01 (Weekend): weekend day
+- 2023-07-02 (Weekend): weekend day
+- 2023-07-08 (Weekend): weekend day
+- 2023-07-09 (Weekend): weekend day
+- 2023-07-15 (Weekend): weekend day
+- 2023-07-16 (Weekend): weekend day
+- 2023-07-22 (Weekend): weekend day
+- 2023-07-23 (Weekend): weekend day
+- 2023-07-29 (Weekend): weekend day
+- 2023-07-30 (Weekend): weekend day
+- 2023-08-05 (Weekend): weekend day
+- 2023-08-06 (Weekend): weekend day
+- 2023-08-12 (Weekend): weekend day
+- 2023-08-13 (Weekend): weekend day
+- 2023-08-19 (Weekend): weekend day
+- 2023-08-20 (Weekend): weekend day
+- 2023-08-26 (Weekend): weekend day
+- 2023-08-27 (Weekend): weekend day
+- 2023-09-02 (Weekend): weekend day
+- 2023-09-03 (Weekend): weekend day
+- 2023-09-09 (Weekend): weekend day
+- 2023-09-10 (Weekend): weekend day
+- 2023-09-16 (Weekend): weekend day
+- 2023-09-17 (Weekend): weekend day
+- 2023-09-23 (Weekend): weekend day
+- 2023-09-24 (Weekend): weekend day
+- 2023-09-30 (Weekend): weekend day
+- 2023-10-01 (Weekend): weekend day
+- 2023-10-02 (Public Holiday): Labour Day
+- 2023-10-07 (Weekend): weekend day
+- 2023-10-08 (Weekend): weekend day
+- 2023-10-14 (Weekend): weekend day
+- 2023-10-15 (Weekend): weekend day
+- 2023-10-21 (Weekend): weekend day
+- 2023-10-22 (Weekend): weekend day
+- 2023-10-28 (Weekend): weekend day
+- 2023-10-29 (Weekend): weekend day
+- 2023-11-04 (Weekend): weekend day
+- 2023-11-05 (Weekend): weekend day
+- 2023-11-11 (Weekend): weekend day
+- 2023-11-12 (Weekend): weekend day
+- 2023-11-18 (Weekend): weekend day
+- 2023-11-19 (Weekend): weekend day
+- 2023-11-25 (Weekend): weekend day
+- 2023-11-26 (Weekend): weekend day
+- 2023-12-02 (Weekend): weekend day
+- 2023-12-03 (Weekend): weekend day
+- 2023-12-09 (Weekend): weekend day
+- 2023-12-10 (Weekend): weekend day
+- 2023-12-16 (Weekend): weekend day
+- 2023-12-17 (Weekend): weekend day
+- 2023-12-23 (Weekend): weekend day
+- 2023-12-24 (Weekend): weekend day
+- 2023-12-25 (Public Holiday): Christmas Day
+- 2023-12-26 (Public Holiday): Boxing Day
+- 2023-12-30 (Weekend): weekend day
+- 2023-12-31 (Weekend): weekend day",1,1,11,537328
+"Helps users analyze a specified date range for a given country, retrieving detailed breakdowns of dates, weekdays, weekends, public holidays and custom dates. Also include the ability to calculate a new date by adding or subtracting a specified number of working days, taking into account holidays in specific countries. In addition, users should be allowed to obtain details of any particular date, including whether that date is a weekday, public holiday, weekend, or custom date, as well as the corresponding working hours, salary, and remote working details.","### Date Range Analysis ###
+
+** Days Overview **
+- Total Days: 365
+- Mondays: 52
+- Tuesdays: 52
+- Wednesdays: 52
+- Thursdays: 52
+- Fridays: 52
+- Saturdays: 52
+- Sundays: 53
+
+** Working Days Overview **
+- Total Working Days: 249
+- Work Hours: 1992
+- Wages: $39840
+
+** Public Holidays **
+- Total Public Holidays: 13
+  - 2023-01-01: New Year's Day
+  - 2023-01-02: New Year's Day (observance)
+  - 2023-01-16: Martin Luther King Day
+  - 2023-02-20: Washington's Birthday
+  - 2023-05-29: Memorial Day
+  - 2023-06-19: Juneteenth National Independence Day
+  - 2023-07-04: Independence Day
+  - 2023-09-04: Labor Day
+  - 2023-10-09: Columbus Day
+  - 2023-11-10: Veterans Day (observance)
+  - 2023-11-11: Veterans Day
+  - 2023-11-23: Thanksgiving
+  - 2023-12-25: Christmas
+
+### New Date Calculation ###
+- New Date After Increment: N/A
+- Total Working Days in Period: N/A
+- Work Hours in Period: N/A
+
+### Specific Day Information ###
+- Working Day: No
+- Public Holiday: No
+- Weekend Day: No",1,1,12,686688
+"I want to retrieve real-time stock quotes from multiple tickers, focusing on key trade indicators such as high, low, volume, and last trade data. Details of dividend-paying stocks should also be provided, including trend stocks with high dividend yields, recent dividend increases, and stocks that are going ex-dividend. This gives investors a comprehensive view of stock performance and dividend trends, helping them make informed investment decisions.",Fail,-1,-1,23,90975
+"Please provide an overall view of the daily activity in the stock market, highlighting the biggest winners, losers, most active stocks and noteworthy sectors. Includes metadata on specific financial instruments and companies, sorted by index, and covers global markets. In addition, an integrated news feed for the latest market news provides users with current updates on financial trends and events affecting their investments.",Fail,-1,-1,28,76441
+"I need a service that aggregates and presents financial market news and data from a variety of sources. The service should offer the latest articles and videos related to specific stock symbols, grouped by region, and allow users to access specific market stories focused on currencies. The goal is to keep users informed of global market conditions, currency trends and stock-specific news through a unified interface, with the option to filter by region and specific ticker symbol.",Fail,-1,-1,27,88982
+"Users need to search for securities by name or keyword, retrieve detailed information about related news articles, and obtain comprehensive metadata for specific news items. Take advantage of autocomplete to assist in finding relevant securities and provide the ability to access in-depth content details of selected news articles. The goal is to enable users to conduct detailed investigations of security-related news, explore the metadata of articles, and identify stock-specific data through a user-friendly interface.","### Auto-complete Suggestions for 'apple' ###
+
+Suggestion 1:
+- Name: Apple Inc
+- Symbol: AAPL
+- Exchange: NASDAQ GS
+- Country: United States
+- Currency: USD
+- Security Type: Common Stock
+
+Suggestion 2:
+- Name: Apple Hospitality REIT Inc
+- Symbol: APLE
+- Exchange: New York
+- Country: United States
+- Currency: USD
+- Security Type: REIT
+
+Suggestion 3:
+- Name: Apple International Co Ltd
+- Symbol: 2788
+- Exchange: Tokyo
+- Country: Japan
+- Currency: JPY
+- Security Type: Common Stock
+
+Suggestion 4:
+- Name: Apple Green Holding Inc
+- Symbol: AGPL
+- Exchange: N/A
+- Country: Malaysia
+- Currency: USD
+- Security Type: Common Stock
+
+Suggestion 5:
+- Name: Apple Flavor & Fragrance Group Co Ltd
+- Symbol: 603020
+- Exchange: Shanghai
+- Country: China
+- Currency: CNY
+- Security Type: Common Stock
+---
+
+### News Details for ID '4cd7395e-588c-4a64-a33b-64371b30dc95' ###
+- Title: N/A
+- Source: N/A
+- Published Date: N/A
+- Summary: N/A
+- Content: N/A
+---",1,0,15,1120950
+"Users need to obtain real-time exchange rates for multiple currencies relative to the specified base currency and convert from one currency to another based on the latest exchange rate. First retrieve the real-time exchange rate for a set of selected currencies using the base currency, and then use the obtained exchange rate to convert the specified amount between the two selected currencies. Allow users to monitor current exchange rates and seamlessly perform real-time currency conversions.",Fail,-1,-1,27,95362
+"Users need a currency conversion service that first retrieves a list of all supported currencies and then converts the specified amount from one base currency to multiple target currencies. Users should be able to select a list of base and target currencies. The service will first obtain the available currency to ensure that a valid currency code is used, and then perform the conversion of the specified amount across the selected target currency, providing detailed conversion rates and amounts.","### Supported Currencies ###
+- United States Dollar (Symbol: USD)
+- Albania Lek (Symbol: ALL)
+- Algeria Dinar (Symbol: DZD)
+- Angola Kwanza (Symbol: AOA)
+- Argentina Peso (Symbol: ARS)
+- Armenia Dram (Symbol: AMD)
+- Aruba Guilder (Symbol: AWG)
+- Australia Dollar (Symbol: AUD)
+- Azerbaijan Manat (Symbol: AZN)
+- Bahamas Dollar (Symbol: BSD)
+- Bahrain Dinar (Symbol: BHD)
+- Bangladesh Taka (Symbol: BDT)
+- Barbados Dollar (Symbol: BBD)
+- Belarus Ruble (Symbol: BYN)
+- Belize Dollar (Symbol: BZD)
+- Bermuda Dollar (Symbol: BMD)
+- Bhutan Ngultrum (Symbol: BTN)
+- Bolivia Bolíviano (Symbol: BOB)
+- Bosnia and Herzegovina Convertible Marka (Symbol: BAM)
+- Botswana Pula (Symbol: BWP)
+- Brazil Real (Symbol: BRL)
+- Brunei Darussalam Dollar (Symbol: BND)
+- Bulgaria Lev (Symbol: BGN)
+- Burundi Franc (Symbol: BIF)
+- Cambodia Riel (Symbol: KHR)
+- Canada Dollar (Symbol: CAD)
+- Cape Verde Escudo (Symbol: CVE)
+- Cayman Islands Dollar (Symbol: KYD)
+- Chile Peso (Symbol: CLP)
+- China Yuan Renminbi (Symbol: CNY)
+- Colombia Peso (Symbol: COP)
+- Communauté Financière Africaine (BCEAO) Franc (Symbol: XOF)
+- Communauté Financière Africaine (BEAC) CFA Franc BEAC (Symbol: XAF)
+- Comorian Franc (Symbol: KMF)
+- Comptoirs Français du Pacifique (CFP) Franc (Symbol: XPF)
+- Congo/Kinshasa Franc (Symbol: CDF)
+- Costa Rica Colon (Symbol: CRC)
+- Croatia Kuna (Symbol: HRK)
+- Cuba Peso (Symbol: CUP)
+- Czech Republic Koruna (Symbol: CZK)
+- Denmark Krone (Symbol: DKK)
+- Djibouti Franc (Symbol: DJF)
+- Dominican Republic Peso (Symbol: DOP)
+- East Caribbean Dollar (Symbol: XCD)
+- Egypt Pound (Symbol: EGP)
+- El Salvador Colon (Symbol: SVC)
+- Ethiopia Birr (Symbol: ETB)
+- Euro Member Countries (Symbol: EUR)
+- Fiji Dollar (Symbol: FJD)
+- Gambia Dalasi (Symbol: GMD)
+- Georgia Lari (Symbol: GEL)
+- Ghana Cedi (Symbol: GHS)
+- Guatemala Quetzal (Symbol: GTQ)
+- Guinea Franc (Symbol: GNF)
+- Guyana Dollar (Symbol: GYD)
+- Haiti Gourde (Symbol: HTG)
+- Honduras Lempira (Symbol: HNL)
+- Hong Kong Dollar (Symbol: HKD)
+- Hungary Forint (Symbol: HUF)
+- Iceland Krona (Symbol: ISK)
+- India Rupee (Symbol: INR)
+- Indonesia Rupiah (Symbol: IDR)
+- Iran Rial (Symbol: IRR)
+- Iraq Dinar (Symbol: IQD)
+- Israel Shekel (Symbol: ILS)
+- Jamaica Dollar (Symbol: JMD)
+- Japan Yen (Symbol: JPY)
+- Jordan Dinar (Symbol: JOD)
+- Kazakhstan Tenge (Symbol: KZT)
+- Kenya Shilling (Symbol: KES)
+- Korea (South) Won (Symbol: KRW)
+- Kuwait Dinar (Symbol: KWD)
+- Kyrgyzstan Som (Symbol: KGS)
+- Laos Kip (Symbol: LAK)
+- Lebanon Pound (Symbol: LBP)
+- Lesotho Loti (Symbol: LSL)
+- Liberia Dollar (Symbol: LRD)
+- Libya Dinar (Symbol: LYD)
+- Macau Pataca (Symbol: MOP)
+- Macedonia Denar (Symbol: MKD)
+- Madagascar Ariary (Symbol: MGA)
+- Malawi Kwacha (Symbol: MWK)
+- Malaysia Ringgit (Symbol: MYR)
+- Maldives (Maldive Islands) Rufiyaa (Symbol: MVR)
+- Mauritius Rupee (Symbol: MUR)
+- Mexico Peso (Symbol: MXN)
+- Moldova Leu (Symbol: MDL)
+- Morocco Dirham (Symbol: MAD)
+- Mozambique Metical (Symbol: MZN)
+- Myanmar (Burma) Kyat (Symbol: MMK)
+- Namibia Dollar (Symbol: NAD)
+- Nepal Rupee (Symbol: NPR)
+- Netherlands Antilles Guilder (Symbol: ANG)
+- New Zealand Dollar (Symbol: NZD)
+- Nicaragua Cordoba (Symbol: NIO)
+- Nigeria Naira (Symbol: NGN)
+- Norway Krone (Symbol: NOK)
+- Oman Rial (Symbol: OMR)
+- Pakistan Rupee (Symbol: PKR)
+- Panama Balboa (Symbol: PAB)
+- Papua New Guinea Kina (Symbol: PGK)
+- Paraguay Guarani (Symbol: PYG)
+- Peru Sol (Symbol: PEN)
+- Philippines Peso (Symbol: PHP)
+- Poland Zloty (Symbol: PLN)
+- Qatar Riyal (Symbol: QAR)
+- Romania Leu (Symbol: RON)
+- Russia Ruble (Symbol: RUB)
+- Rwanda Franc (Symbol: RWF)
+- Saudi Arabia Riyal (Symbol: SAR)
+- Serbia Dinar (Symbol: RSD)
+- Seychelles Rupee (Symbol: SCR)
+- Sierra Leone Leone (Symbol: SLL)
+- Singapore Dollar (Symbol: SGD)
+- Solomon Islands Dollar (Symbol: SBD)
+- Somalia Shilling (Symbol: SOS)
+- South Africa Rand (Symbol: ZAR)
+- Sri Lanka Rupee (Symbol: LKR)
+- Sudan Pound (Symbol: SDG)
+- Suriname Dollar (Symbol: SRD)
+- Swaziland Lilangeni (Symbol: SZL)
+- Sweden Krona (Symbol: SEK)
+- Switzerland Franc (Symbol: CHF)
+- Taiwan New Dollar (Symbol: TWD)
+- Tajikistan Somoni (Symbol: TJS)
+- Tanzania Shilling (Symbol: TZS)
+- Thailand Baht (Symbol: THB)
+- Tonga Pa'anga (Symbol: TOP)
+- Trinidad and Tobago Dollar (Symbol: TTD)
+- Tunisia Dinar (Symbol: TND)
+- Turkey Lira (Symbol: TRY)
+- Turkmenistan Manat (Symbol: TMT)
+- Uganda Shilling (Symbol: UGX)
+- Ukraine Hryvnia (Symbol: UAH)
+- United Arab Emirates Dirham (Symbol: AED)
+- United Kingdom Pound (Symbol: GBP)
+- Uruguay Peso (Symbol: UYU)
+- Uzbekistan Som (Symbol: UZS)
+- Viet Nam Dong (Symbol: VND)
+- Yemen Rial (Symbol: YER)
+- Zambia Kwacha (Symbol: ZMW)
+- Afghan Afghani (Symbol: AFN)
+- Unidad de Fomento (Symbol: CLF)
+- Chinese Renminbi Yuan Offshore (Symbol: CNH)
+- Belarusian Ruble (Old) (Symbol: BYR)
+- Belarusian Ruble (New) (Symbol: BYN)
+- Cuban Convertible Peso (Symbol: CUC)
+- Estonian Kroon (Symbol: EEK)
+- Eritrean Nakfa (Symbol: ERN)
+- Falkland Pound (Symbol: FKP)
+- Guernsey Pound (Symbol: GGP)
+- Gibraltar Pound (Symbol: GIP)
+- Isle of Man Pound (Symbol: IMP)
+- Jersey Pound (Symbol: JEP)
+- Lithuanian Litas (Symbol: LTL)
+- Maltese Lira (Symbol: MTL)
+- Saint Helenian Pound (Symbol: SHP)
+- East Caribbean Dollar (Symbol: XCD)
+
+### Conversion Result for 2 EUR ###
+- United Kingdom Pound (GBP):
+  - Conversion Rate: 0.8332473675684432
+  - Converted Amount: 1.67
+---
+- United States Dollar (USD):
+  - Conversion Rate: 1.0799719207300609
+  - Converted Amount: 2.16
+---
+- Euro Member Countries (EUR):
+  - Conversion Rate: 0.9999999999999999
+  - Converted Amount: 2.00
+---",1,1,10,485270
+"Users need to create a comprehensive commodity market data service by first retrieving a list of supported commodities and currencies. Use this list to get the latest exchange rate for the selected item in the specified base currency. In addition, retrieve real-time or historical market data, including the opening, highest, lowest, previous and current prices of the commodity. The service should allow users to select base currencies and commodities of interest to get the latest exchange rates and detailed market analysis.",Fail,-1,-1,25,99144
+"The user first retrieves a comprehensive list of supported currencies, mapping each currency code to its full name. This data is then used to provide a real-time exchange rate relative to the specified base currency, with the ability to choose the response format (JSON or XML). The service should allow users to choose their preferred base currency for conversion and provide up-to-date exchange rates for supported currencies.","### Supported Currencies ###
+- AED: United Arab Emirates Dirham
+- AFN: Afghan Afghani
+- ALL: Albanian Lek
+- AMD: Armenian Dram
+- ANG: Netherlands Antillean Guilder
+- AOA: Angolan Kwanza
+- ARS: Argentine Peso
+- AUD: Australian Dollar
+- AWG: Aruban Florin
+- AZN: Azerbaijani Manat
+- BAM: Bosnia-Herzegovina Convertible Mark
+- BBD: Barbadian Dollar
+- BCH: Bitcoin Cash
+- BDT: Bangladeshi Taka
+- BGN: Bulgarian Lev
+- BHD: Bahraini Dinar
+- BIF: Burundian Franc
+- BMD: Bermudan Dollar
+- BND: Brunei Dollar
+- BOB: Bolivian Boliviano
+- BRL: Brazilian Real
+- BSD: Bahamian Dollar
+- BTC: Bitcoin
+- BTG: Bitcoin Gold
+- BWP: Botswanan Pula
+- BZD: Belize Dollar
+- CAD: Canadian Dollar
+- CDF: Congolese Franc
+- CHF: Swiss Franc
+- CLP: Chilean Peso
+- CNH: Chinese Yuan (offshore)
+- CNY: Chinese Yuan
+- COP: Colombian Peso
+- CRC: Costa Rican Colón
+- CUC: Cuban Convertible Peso
+- CUP: Cuban Peso
+- CVE: Cape Verdean Escudo
+- CZK: Czech Republic Koruna
+- DASH: DASH
+- DJF: Djiboutian Franc
+- DKK: Danish Krone
+- DOP: Dominican Peso
+- DZD: Algerian Dinar
+- EGP: Egyptian Pound
+- EOS: EOS
+- ETB: Ethiopian Birr
+- ETH: Ethereum
+- EUR: Euro
+- FJD: Fijian Dollar
+- GBP: British Pound Sterling
+- GEL: Georgian Lari
+- GHS: Ghanaian Cedi
+- GIP: Gibraltar Pound
+- GMD: Gambian Dalasi
+- GNF: Guinean Franc
+- GTQ: Guatemalan Quetzal
+- GYD: Guyanaese Dollar
+- HKD: Hong Kong Dollar
+- HNL: Honduran Lempira
+- HRK: Croatian Kuna
+- HTG: Haitian Gourde
+- HUF: Hungarian Forint
+- IDR: Indonesian Rupiah
+- ILS: Israeli New Sheqel
+- INR: Indian Rupee
+- IQD: Iraqi Dinar
+- IRR: Iranian Rial
+- ISK: Icelandic Króna
+- JMD: Jamaican Dollar
+- JOD: Jordanian Dinar
+- JPY: Japanese Yen
+- KES: Kenyan Shilling
+- KGS: Kyrgystani Som
+- KHR: Cambodian Riel
+- KMF: Comorian Franc
+- KRW: South Korean Won
+- KWD: Kuwaiti Dinar
+- KYD: Cayman Islands Dollar
+- KZT: Kazakhstani Tenge
+- LAK: Laotian Kip
+- LBP: Lebanese Pound
+- LKR: Sri Lankan Rupee
+- LRD: Liberian Dollar
+- LSL: Lesotho Loti
+- LTC: Litecoin
+- LYD: Libyan Dinar
+- MAD: Moroccan Dirham
+- MDL: Moldovan Leu
+- MKD: Macedonian Denar
+- MMK: Myanma Kyat
+- MOP: Macanese Pataca
+- MUR: Mauritian Rupee
+- MVR: Maldivian Rufiyaa
+- MWK: Malawian Kwacha
+- MXN: Mexican Peso
+- MYR: Malaysian Ringgit
+- MZN: Mozambican Metical
+- NAD: Namibian Dollar
+- NGN: Nigerian Naira
+- NIO: Nicaraguan Córdoba
+- NOK: Norwegian Krone
+- NPR: Nepalese Rupee
+- NZD: New Zealand Dollar
+- OMR: Omani Rial
+- PAB: Panamanian Balboa
+- PEN: Peruvian Nuevo Sol
+- PGK: Papua New Guinean Kina
+- PHP: Philippine Peso
+- PKR: Pakistani Rupee
+- PLN: Polish Zloty
+- PYG: Paraguayan Guarani
+- QAR: Qatari Rial
+- RON: Romanian Leu
+- RSD: Serbian Dinar
+- RUB: Russian Ruble
+- RWF: Rwandan Franc
+- SAR: Saudi Riyal
+- SBD: Solomon Islands Dollar
+- SCR: Seychellois Rupee
+- SDG: Sudanese Pound
+- SEK: Swedish Krona
+- SGD: Singapore Dollar
+- SLL: Sierra Leonean Leone
+- SOS: Somali Shilling
+- SRD: Surinamese Dollar
+- SVC: Salvadoran Colón
+- SZL: Swazi Lilangeni
+- THB: Thai Baht
+- TJS: Tajikistani Somoni
+- TMT: Turkmenistani Manat
+- TND: Tunisian Dinar
+- TOP: Tongan Paʻanga
+- TRY: Turkish Lira
+- TTD: Trinidad and Tobago Dollar
+- TWD: New Taiwan Dollar
+- TZS: Tanzanian Shilling
+- UAH: Ukrainian Hryvnia
+- UGX: Ugandan Shilling
+- USD: United States Dollar
+- UYU: Uruguayan Peso
+- UZS: Uzbekistan Som
+- VND: Vietnamese Dong
+- XAF: CFA Franc BEAC
+- XAG: Silver (troy ounce)
+- XAU: Gold (troy ounce)
+- XCD: East Caribbean Dollar
+- XLM: Stellar Lumens
+- XOF: CFA Franc BCEAO
+- XRP: Ripple
+- YER: Yemeni Rial
+- ZAR: South African Rand
+- ZMW: Zambian Kwacha
+
+### Live Exchange Rates relative to USD ###
+- AED: 3.673
+- AFN: 66.69506
+- ALL: 91.1980228
+- AMD: 385.831049
+- ANG: 1.806062
+- AOA: 909.051
+- ARS: 984.393427
+- AUD: 1.51377536
+- AWG: 1.79994445
+- AZN: 1.7
+- BAM: 1.810691
+- BBD: 2.02228968
+- BCH: 0.002856098818
+- BDT: 119.753
+- BGN: 1.810985
+- BHD: 0.376744184
+- BIF: 2910.271
+- BMD: 1
+- BND: 1.32303483
+- BOB: 6.92014225
+- BRL: 5.7075
+- BSD: 1.002092
+- BTC: 1.49187599e-05
+- BTG: 0.04765539576
+- BWP: 13.3957001
+- BZD: 2.01886264
+- CAD: 1.3892499
+- CDF: 2847.86857
+- CHF: 0.8668313
+- CLP: 952.380952
+- CNH: 7.1343
+- CNY: 7.12110218
+- COP: 4331.00297
+- CRC: 515.809031
+- CUC: 1
+- CUP: 24.0502207
+- CVE: 102.083994
+- CZK: 23.43
+- DASH: 0.0456
+- DJF: 178.351833
+- DKK: 6.9113
+- DOP: 60.34375
+- DZD: 133.489712
+- EGP: 48.74983
+- EOS: 2.250032932
+- ETB: 121.858949
+- ETH: 0.0004037104367
+- EUR: 0.92595
+- FJD: 2.24825
+- GBP: 0.7715454
+- GEL: 2.72
+- GHS: 16.10439
+- GIP: 0.7715454
+- GMD: 69.5
+- GNF: 8641.59337
+- GTQ: 7.751773
+- GYD: 209.658
+- HKD: 7.77035
+- HNL: 25.2549104
+- HRK: 6.8253273
+- HTG: 131.920848
+- HUF: 374.28
+- IDR: 15695.1
+- ILS: 3.7886
+- INR: 84.102238
+- IQD: 1312.20525
+- IRR: 42105
+- ISK: 138.12
+- JMD: 158.730436
+- JOD: 0.7089
+- JPY: 152.284998
+- KES: 129.27
+- KGS: 85.8
+- KHR: 4067.73594
+- KMF: 454.949532
+- KRW: 1388.66
+- KWD: 0.306185592
+- KYD: 0.834666713
+- KZT: 487.4553
+- LAK: 22010.1423
+- LBP: 89739.2178
+- LKR: 294.2369
+- LRD: 192.4102
+- LSL: 17.69021
+- LTC: 0.01459148194
+- LYD: 4.82699332
+- MAD: 9.88528131
+- MDL: 17.8906879
+- MKD: 56.96367
+- MMK: 3247.83199
+- MOP: 8.01587143
+- MUR: 46.0883227
+- MVR: 15.3593481
+- MWK: 1737.645
+- MXN: 19.9839
+- MYR: 4.33999899
+- MZN: 63.9033985
+- NAD: 17.68996
+- NGN: 1645
+- NIO: 36.87485
+- NOK: 10.9731987
+- NPR: 134.8032
+- NZD: 1.67322
+- OMR: 0.38499
+- PAB: 1.00156705
+- PEN: 3.76148004
+- PGK: 4.010591
+- PHP: 58.565
+- PKR: 278.1873
+- PLN: 4.016349
+- PYG: 8020.257
+- QAR: 3.654804
+- RON: 4.60739893
+- RSD: 108.3564
+- RUB: 97.19037
+- RWF: 1355.287
+- SAR: 3.75588
+- SBD: 8.351058
+- SCR: 13.1487546
+- SDG: 601.5
+- SEK: 10.6211
+- SGD: 1.3209
+- SLL: 19750
+- SOS: 572.7035
+- SRD: 34.0505
+- SVC: 8.768308
+- SZL: 17.68382
+- THB: 33.6599923
+- TJS: 10.66511
+- TMT: 3.5
+- TND: 3.108764
+- TOP: 2.3421
+- TRY: 34.2914008
+- TTD: 6.808282
+- TWD: 32.0788
+- TZS: 2727.879
+- UAH: 41.4378606
+- UGX: 3675.449
+- USD: 1
+- UYU: 41.6146484
+- UZS: 12842.8231
+- VND: 25369.9574
+- XAF: 607.288802
+- XAG: 0.029673942717420982
+- XAU: 0.00036388976323512554
+- XCD: 2.70255
+- XLM: 10.65551307
+- XOF: 607.288802
+- XRP: 1.954115569
+- YER: 250.348798
+- ZAR: 17.67098
+- ZMW: 26.5307373",1,1,15,1123305
+"The user wants to retrieve real-time pricing data for a list of items that use US dollars as the default currency. After obtaining the price of the item, it provides the ability to convert the specified amount from one currency to another. This allows users to see the prices of goods in US dollars and, if needed, to convert those prices into different currencies for further analysis or comparison.","### Market Data for Commodities (in USD) ###
+
+Commodity: COCOA
+  - Open Price    : 6696 USD
+  - High Price    : 6916 USD
+  - Low Price     : 6421 USD
+  - Previous Close: 6724 USD
+  - Current Price : 6782 USD
+
+Commodity: COFFEE
+  - Open Price    : 246.27 USD
+  - High Price    : 248.37 USD
+  - Low Price     : 243.98 USD
+  - Previous Close: 244.28 USD
+  - Current Price : 247.37 USD
+
+Commodity: CORN
+  - Open Price    : 420.72 USD
+  - High Price    : 420.72 USD
+  - Low Price     : 413.7 USD
+  - Previous Close: 420.72 USD
+  - Current Price : 414.43 USD
+
+Commodity: COTTON
+  - Open Price    : 71.33 USD
+  - High Price    : 71.35 USD
+  - Low Price     : 70.49 USD
+  - Previous Close: 71.44 USD
+  - Current Price : 70.54 USD
+
+Commodity: GASOLINE
+  - Open Price    : 2.0444 USD
+  - High Price    : 2.0922 USD
+  - Low Price     : 2.0342 USD
+  - Previous Close: 2.0464 USD
+  - Current Price : 2.0889 USD
+
+Commodity: LUMBER
+  - Open Price    : 522.8 USD
+  - High Price    : 525.16 USD
+  - Low Price     : 520.91 USD
+  - Previous Close: 521.29 USD
+  - Current Price : 522.59 USD
+
+Commodity: NATURALGAS
+  - Open Price    : 2.982 USD
+  - High Price    : 3.079 USD
+  - Low Price     : 2.942 USD
+  - Previous Close: 2.972 USD
+  - Current Price : 3.038 USD
+
+Commodity: OATS
+  - Open Price    : 3.8587 USD
+  - High Price    : 3.8725 USD
+  - Low Price     : 3.8311 USD
+  - Previous Close: 3.8638 USD
+  - Current Price : 3.8522 USD
+
+Commodity: OIL
+  - Open Price    : 70.295 USD
+  - High Price    : 71.925 USD
+  - Low Price     : 69.96 USD
+  - Previous Close: 70.295 USD
+  - Current Price : 71.675 USD
+
+Commodity: ORANGEJUICE
+  - Open Price    : 4.60363 USD
+  - High Price    : 4.72281 USD
+  - Low Price     : 4.57388 USD
+  - Previous Close: 4.60307 USD
+  - Current Price : 4.70631 USD
+
+Commodity: SOYBEAN
+  - Open Price    : 1002.5 USD
+  - High Price    : 1004.6 USD
+  - Low Price     : 992.9 USD
+  - Previous Close: 1012.5 USD
+  - Current Price : 996.7 USD
+
+Commodity: SUGAR
+  - Open Price    : 0.21874 USD
+  - High Price    : 0.22004 USD
+  - Low Price     : 0.216 USD
+  - Previous Close: 0.21824 USD
+  - Current Price : 0.21796 USD
+
+Commodity: WHEAT
+  - Open Price    : 583.35 USD
+  - High Price    : 583.39 USD
+  - Low Price     : 565.13 USD
+  - Previous Close: 580.15 USD
+  - Current Price : 567.41 USD
+
+### Currency Conversion: 150 USD to EUR ###
+Converted Amount: 150 USD = 138.8925 EUR",1,1,12,674988
+"Develop a system that allows users to search for recipes based on specific criteria such as ingredients, preparation time, nutritional values, and tags, and then retrieve detailed information about any selected recipe, including ingredients, steps, and nutritional data. This system should provide a seamless interface for filtering recipes and displaying comprehensive recipe details.",Fail,-1,-1,21,104373
+"Users navigate the list of Chinese food recipes by displaying basic information such as the title, difficulty level and picture of each recipe. Users can select a specific recipe from the list to see details, including ingredients, preparation time, step-by-step cooking instructions, and other details such as serving size and difficulty.",Fail,-1,-1,16,99780
+"Users are asked to view a list of vegetarian recipes, including title, difficulty, and a representative image of each recipe. In addition, provide the ability to access random recipes, displaying comprehensive information such as preparation time, cooking time, ingredients, step-by-step instructions, and nutritional details.","### Vegan Food List (First Item Example) ###
+Recipe Title: Dark chocolate bark with sea salt, rosemary, pistachios and candied citrus
+Difficulty   : Easy
+Image        : https://apipics.s3.amazonaws.com/vegan_api/1.jpg
+
+### Random Vegan Recipe ###
+Recipe Title : Keto Coconut Chai Smoothie
+Tags         : meal-plan-ok, quick-easy, paleo, vegan, vegetarian, pescatarian, dairy-free, gluten-free, wheat-free, egg-free, peanut-free, soy-free, fish-free, shellfish-free, pork-free, beef-free, chicken-free, lchf, relevant-meal--beverages, snacks, beverages
+Description  : If you need a light breakfast or you simply want a drinkable treat, this coconut chai smoothie recip...
+Prepare Time : 15 minutes
+
+Ingredients  :
+  - Almond Milk, Vanilla Or Other Flavors, Unsweetened: 2 cup (2.0g)
+  - Spiced Chai Tea Bags by Trader Joe's: 1 bag (1.0g)
+  - Frozen Coconut Chunks By Trader Joe's: 1 ounce (1.0g)
+
+Steps        :
+  1. Heat the almond milk over the stove to a strong simmer. Steep the chai tea in the almond milk for 5-10 minutes, depending on how strong you want the flavor to be. After the milk has steeped, discard the tea bag and store the milk in the freezer until it becomes cold.
+  2. For the coconut, cut it into cubes if necessary. The coconut must be frozen for this recipe, so have this prepare in advance. When the almond milk is cold, blend it with the frozen coconut cubes.
+  3. You may refrigerate your smoothie for a thicker consistency before consuming. Pour it in a tall glass. Enjoy !
+
+Servings     : 1
+Calories     : 128.935 kcal per serving
+Image        : https://tinyurl.com/2p82zzca/7c3d80d3-c7c7-46ab-9f3c-6d5a77284474.png",1,0,12,634128
+"Users verify the halal status of animal and food additives using their name or designated E number. Users can enter the name of an animal to determine if it is halal, or they can enter an E number to check if a particular food additive meets halal standards. This ensures that users have access to halal information on animal-based products and common food additives.","Animal Check Result:
+  - Animal: Dog
+  - Status: Not Halal
+
+E Number Check Result:
+  - E Number: E101
+  - Name: Riboflavin/Lactofavin/Vitamin B2 *
+  - Status: Not Halal
+",1,1,12,682884
+Give me some hotel information in New York City.,"=== Hotel Details ===
+Name: The New Yorker, A Wyndham Hotel
+Rating: 4 / 5
+Reviews: 16534
+Price Range: Information not available
+Address: Information not available
+Phone: None
+Featured Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/87/f3/7b/welcome-to-the-wyndham.jpg
+Amenities: No amenities listed
+Link to Hotel: https://www.tripadvisor.com/Hotel_Review-g60763-d122005-Reviews-The_New_Yorker_A_Wyndham_Hotel-New_York_City_New_York.html
+====================
+
+=== Hotel Details ===
+Name: New York Hilton Midtown
+Rating: 4 / 5
+Reviews: 14987
+Price Range: Information not available
+Address: Information not available
+Phone: 1 (855) 605-0316
+Featured Image: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/dd/2c/6c/guest-room.jpg
+Amenities: No amenities listed
+Link to Hotel: https://www.tripadvisor.com/Hotel_Review-g60763-d611947-Reviews-New_York_Hilton_Midtown-New_York_City_New_York.html
+====================",1,1,10,416230
+Give me some information about restaurants in New York City.,Fail,-1,-1,18,77317
+I want to know some sports data.,Fail,-1,-1,30,86436
+Tell me about some sports.,Fail,-1,-1,30,102429
+I want to know all about the New York Knicks team in the NBA.,Fail,-1,-1,18,78523
+I want logos for all NBA teams.,Fail,-1,-1,27,84857
+I would like to know holiday information in Brazil,"*** Holidays in Belo Horizonte, Minas Gerais, Brazil for 2023 ***
+
+Date: 01/01/2023 - Holiday: Ano Novo (Mandatory Holiday)
+Date: 07/04/2023 - Holiday: Sexta-Feira Santa (Mandatory Holiday)
+Date: 07/04/2023 - Holiday: Sexta-feira Santa (Mandatory Holiday)
+Date: 21/04/2023 - Holiday: Dia de Tiradentes (Mandatory Holiday)
+Date: 01/05/2023 - Holiday: Dia do Trabalho (Mandatory Holiday)
+Date: 08/06/2023 - Holiday: Corpus Christi (Mandatory Holiday)
+Date: 15/08/2023 - Holiday: Assuncao de Nossa Senhora (Mandatory Holiday)
+Date: 07/09/2023 - Holiday: Independencia do Brasil (Mandatory Holiday)
+Date: 12/10/2023 - Holiday: Nossa Senhora Aparecida (Mandatory Holiday)
+Date: 02/11/2023 - Holiday: Dia de Finados (Mandatory Holiday)
+Date: 15/11/2023 - Holiday: Proclamacao da Republica (Mandatory Holiday)
+Date: 08/12/2023 - Holiday: Imaculada Conceicao (Mandatory Holiday)
+Date: 25/12/2023 - Holiday: Natal (Mandatory Holiday)
+Date: 20/02/2023 - Holiday: Carnaval (Optional Holiday)
+Date: 21/02/2023 - Holiday: Carnaval (Optional Holiday)
+Date: 21/02/2023 - Holiday: Terca de Carnaval (Optional Holiday)
+Date: 22/02/2023 - Holiday: Carnaval (Optional Holiday)
+Date: 08/06/2023 - Holiday: Corpus Christi (Optional Holiday)
+Date: 15/10/2023 - Holiday: Dia do Professor (Optional Holiday)
+Date: 28/10/2023 - Holiday: Dia do Servidor Publico (Optional Holiday)
+
+*** End of Holidays Information ***",1,1,14,1006096
+I would like to know comprehensive information about airports worldwide and the corresponding airline logos.,"List of Airports:
+------------------------------------------------------------
+Airport: A Coruna Airport (LCG/LECO)
+Location: A Coruna, Spain
+Coordinates: (43.302059, -8.37725)
+Timezone: Europe/Madrid (UTC 2:00)
+------------------------------------------------------------
+Airport: Aachen Merzbruck Airport (AAH/EDKA)
+Location: Aachen, Germany
+Coordinates: (50.821899, 6.184759)
+Timezone: Europe/Berlin (UTC 2:00)
+------------------------------------------------------------
+Airport: Aalborg Airport (AAL/EKYT)
+Location: Aalborg, Denmark
+Coordinates: (57.095112, 9.855172)
+Timezone: Europe/Copenhagen (UTC 2:00)
+------------------------------------------------------------
+Airport: Aarhus Airport (AAR/EKAH)
+Location: Aarhus, Denmark
+Coordinates: (56.303295, 10.619129)
+Timezone: Europe/Copenhagen (UTC 2:00)
+------------------------------------------------------------
+Airport: Aarhus Sea Airport (QEA/EKAC)
+Location: Aarhus, Denmark
+Coordinates: (56.151993, 10.247725)
+Timezone: Europe/Copenhagen (UTC 2:00)
+------------------------------------------------------------
+Airport: Aasiaat Airport (JEG/BGAA)
+Location: Aasiaat, Greenland
+Coordinates: (68.72184, -52.784698)
+Timezone: America/Godthab (UTC -1:00)
+------------------------------------------------------------
+Airport: Abadan Airport (ABD/OIAA)
+Location: Abadan, Iran
+Coordinates: (30.371111, 48.228329)
+Timezone: Asia/Tehran (UTC 3:30)
+------------------------------------------------------------
+Airport: Abakan International Airport (ABA/UNAA)
+Location: Abakan, Russia
+Coordinates: (53.740002, 91.385002)
+Timezone: Asia/Krasnoyarsk (UTC 7:00)
+------------------------------------------------------------
+Airport: Abbotsford International Airport (YXX/CYXX)
+Location: Abbotsford, Canada
+Coordinates: (49.025269, -122.360001)
+Timezone: America/Vancouver (UTC -7:00)
+------------------------------------------------------------
+Airport: Abemama Airport (AEA/NGTB)
+Location: Abemama Atoll, Kiribati
+Coordinates: (0.490833, 173.828598)
+Timezone: Pacific/Tarawa (UTC 12:00)
+------------------------------------------------------------
+
+Airline Logos:
+------------------------------------------------------------
+Airline Logo: A0_EFW.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/A0_EFW.png?_=1678974401
+------------------------------------------------------------
+Airline Logo: A3_AEE.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/A3_AEE.png?_=1652880694
+------------------------------------------------------------
+Airline Logo: A6_OTC.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/A6_OTC.png?_=1699531755
+------------------------------------------------------------
+Airline Logo: AB_ABC.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AB_ABC.png?_=1699444240
+------------------------------------------------------------
+Airline Logo: AB_BNZ.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AB_BNZ.png?_=1678972803
+------------------------------------------------------------
+Airline Logo: AE_MDA.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AE_MDA.png?_=1699644572
+------------------------------------------------------------
+Airline Logo: AI_AIC.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AI_AIC.png?_=1699532075
+------------------------------------------------------------
+Airline Logo: AJ_AZY.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AJ_AZY.png?_=1653302677
+------------------------------------------------------------
+Airline Logo: AK_AXM.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AK_AXM.png?_=1652883979
+------------------------------------------------------------
+Airline Logo: AL_MAY.png
+Logo URL: https://s3.eu-central-1.amazonaws.com/images.flightradar24.com/assets/airlines/logotypes/AL_MAY.png?_=1643833358
+------------------------------------------------------------
+",1,0,14,868770
+I would like to know the vehicle information with trim id 3421.,"Vehicle Specifications:
+------------------------------------------------------------
+Vehicle Name: * (hidden)
+Year: 2022
+MSRP: $27990
+Description: ********************************** (hidden)
+
+Engine Specifications:
+Engine Type: *** (engine type hidden)
+Fuel Type: *** (fuel_type hidden)
+Horsepower: 184 HP
+Torque: 221 ft-lbs
+
+Body Specifications:
+Type: *** (body type hidden)
+Doors: 5
+Length: 169.7
+Width: 71.7
+Height: 61.3
+Seats: 5
+Cargo Capacity: 17.6
+Curb Weight: 3618 lbs
+------------------------------------------------------------
+------------------------------------------------------------",0,0,13,853138
+Give me some information about the airport.,Fail,-1,-1,27,105195
+Give me some information about the airline.,"Airline List (Basic Information):
+------------------------------------------------------------
+Airline: 21 Air | Code: 2I | ICAO: CSB
+Airline: 247 Aviation | Code:  | ICAO: EMC
+Airline: 2Excel Aviation | Code:  | ICAO: BRO
+Airline: 4 Airways | Code:  | ICAO: DAK
+Airline: 40-Mile Air | Code: Q5 | ICAO: MLA
+Airline: 748 Air Services | Code: FE | ICAO: IHO
+Airline: 9 Air | Code: AQ | ICAO: JYH
+Airline: Abakan Air | Code: S5 | ICAO: NKP
+Airline: ABS Jets | Code:  | ICAO: ABP
+Airline: Abu Dhabi Aviation | Code:  | ICAO: BAR
+------------------------------------------------------------
+
+Airline List (Detailed Information):
+------------------------------------------------------------
+Airline: 21 Air | IATA: 2I | ICAO: CSB
+Active: Yes | Hub: N/A
+Logo File: 1545.png, URL: https://images.flightradar24.com/assets/airlines/logotypes/1545.png
+------------------------------------------------------------
+Airline: 247 Aviation | IATA: None | ICAO: EMC
+Active: Yes | Hub: N/A
+Logo File: 2566.png, URL: https://images.flightradar24.com/assets/airlines/logotypes/2566.png
+------------------------------------------------------------
+Airline: 2Excel Aviation | IATA: None | ICAO: BRO
+Active: Yes | Hub: N/A
+Logo File: 1914.png, URL: https://images.flightradar24.com/assets/airlines/logotypes/1914.png
+------------------------------------------------------------
+Airline: 4 Airways | IATA: None | ICAO: DAK
+Active: Yes | Hub: N/A
+No logo information available.
+------------------------------------------------------------
+Airline: 40-Mile Air | IATA: Q5 | ICAO: MLA
+Active: Yes | Hub: N/A
+Logo File: MLA_logo0.png, URL: https://www.flightradar24.com/static/images/data/operators/MLA_logo0.png
+------------------------------------------------------------
+Airline: 748 Air Services | IATA: FE | ICAO: IHO
+Active: Yes | Hub: N/A
+Logo File: 1757.png, URL: https://images.flightradar24.com/assets/airlines/logotypes/1757.png
+------------------------------------------------------------
+Airline: 9 Air | IATA: AQ | ICAO: JYH
+Active: Yes | Hub: N/A
+Logo File: 280.png, URL: https://images.flightradar24.com/assets/airlines/logotypes/280.png
+------------------------------------------------------------
+Airline: Abakan Air | IATA: S5 | ICAO: NKP
+Active: Yes | Hub: N/A
+No logo information available.
+------------------------------------------------------------
+Airline: ABS Jets | IATA: None | ICAO: ABP
+Active: Yes | Hub: N/A
+No logo information available.
+------------------------------------------------------------
+Airline: Abu Dhabi Aviation | IATA: None | ICAO: BAR
+Active: Yes | Hub: N/A
+No logo information available.
+------------------------------------------------------------",1,1,15,980040
+I would like to know more about United States Airlines.,Fail,-1,-1,16,107916
+I would like to know New York city and airport information.,"Airport and City Search Results:
+------------------------------------------------------------
+Title: New York
+Suggestion: New York (Any)
+Subtitle: United States
+Entity Type: CITY, Localized Name: New York
+------------------------------------------------------------
+Title: New York John F. Kennedy
+Suggestion: New York John F. Kennedy (JFK)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: New York John F. Kennedy
+------------------------------------------------------------
+Title: New York Newark
+Suggestion: New York Newark (EWR)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: New York Newark
+------------------------------------------------------------
+Title: New York LaGuardia
+Suggestion: New York LaGuardia (LGA)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: New York LaGuardia
+------------------------------------------------------------
+Title: Stewart International
+Suggestion: Stewart International (SWF)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: Stewart International
+------------------------------------------------------------
+Title: Albany
+Suggestion: Albany (ALB)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: Albany
+------------------------------------------------------------
+Title: Buffalo Niagara
+Suggestion: Buffalo Niagara (BUF)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: Buffalo Niagara
+------------------------------------------------------------
+Title: Syracuse
+Suggestion: Syracuse (SYR)
+Subtitle: United States
+Entity Type: AIRPORT, Localized Name: Syracuse
+------------------------------------------------------------
+
+Hierarchical Location Search Results:
+------------------------------------------------------------
+Entity Name: New York John F. Kennedy (JFK) | Type: Airport
+Location Coordinates: 40.6412215, -73.7781176
+Hierarchy: New York|New York|United States
+Entity ID: 95565058
+------------------------------------------------------------
+Entity Name: New York | Type: City
+Location Coordinates: 40.6940959901, -73.9282670243
+Hierarchy: New York|United States
+Entity ID: 27537542
+------------------------------------------------------------
+Entity Name: New York Newark (EWR) | Type: Airport
+Location Coordinates: 40.695833, -74.171667
+Hierarchy: New York|New York|United States
+Entity ID: 95565059
+------------------------------------------------------------
+Entity Name: New York LaGuardia (LGA) | Type: Airport
+Location Coordinates: 40.779444, -73.875833
+Hierarchy: New York|New York|United States
+Entity ID: 95565057
+------------------------------------------------------------
+Entity Name: Newyork | Type: City
+Location Coordinates: 56.2499999918, -5.2833331469
+Hierarchy: Argyll and Bute|Scotland|United Kingdom
+Entity ID: 46422841
+------------------------------------------------------------
+Entity Name: New York | Type: City
+Location Coordinates: 32.1679320926, -95.6691276413
+Hierarchy: Henderson County|Texas|United States
+Entity ID: 46834056
+------------------------------------------------------------
+Entity Name: New York | Type: City
+Location Coordinates: 30.8385201937, -87.2008047958
+Hierarchy: Santa Rosa County|Florida|United States
+Entity ID: 46772434
+------------------------------------------------------------
+Entity Name: New York | Type: City
+Location Coordinates: 53.0789712548, -0.1400758425
+Hierarchy: Lincolnshire|England|United Kingdom
+Entity ID: 46422842
+------------------------------------------------------------
+Entity Name: New York Mills | Type: City
+Location Coordinates: 46.5180160916, -95.376146406
+Hierarchy: Otter Tail County|Minnesota|United States
+Entity ID: 46863744
+------------------------------------------------------------
+Entity Name: New York Mills | Type: City
+Location Coordinates: 43.1053474928, -75.2912777901
+Hierarchy: Oneida County|New York|United States
+Entity ID: 46872082
+------------------------------------------------------------",1,1,15,1109220
+"I need detailed information about the Paris I'm searching for, including their location hierarchy and geographic coordinates. Also, I'd like to see a randomly selected popular photo related to a trip or destination with metadata such as the photo URL, the username of the uploader, and the hosting platform. Please provide at least three search results for the places I designate and always include a random photo related to your trip for inspiration.","Search Location Results:
+Entity Name: Paris Charles de Gaulle (CDG)
+Entity ID: 95565041
+Location: 49.0096176, 2.5481698
+Hierarchy: Paris|Île-de-France|France
+Class: Airport
+
+
+Entity Name: Paris
+Entity ID: 27539733
+Location: 48.85662237511698, 2.3428759930239886
+Hierarchy: Île-de-France|France
+Class: City
+
+
+Entity Name: Paris Orly (ORY)
+Entity ID: 95565040
+Location: 48.728889, 2.357222
+Hierarchy: Paris|Île-de-France|France
+Class: Airport
+
+
+Random Travel Photo:
+Photo ID: popular_02
+Image URL: https://live.staticflickr.com/3670/32419322614_499fc708f0_b.jpg
+Photo Link: https://flic.kr/p/RoMv9b
+Uploader Username: Dieter Vynckier
+Platform: Flickr
+Uploader Profile URL: https://www.flickr.com/photos/dietervynckier/",1,1,12,647016
+"I want to know about different countries, including their market codes, currency details, locale settings, and any associated website URLs. Additionally, I'd like to see some visually appealing photos from a curated list, specifically three promoted and three popular photos, along with information about the photo's uploader and the platform where it's hosted. The results should be presented together, with a focus on countries and captivating photos related to travel.
+","Country Configuration Data:
+Country: Andorra
+Market Code: AD
+Locale: es-ES
+Currency: EUR (€)
+Website: www.skyscanner.net
+
+
+Country: United Arab Emirates
+Market Code: AE
+Locale: en-US
+Currency: AED (AED)
+Website: www.skyscanner.ae
+
+
+Country: Afghanistan
+Market Code: AF
+Locale: en-GB
+Currency: AFN (AFN)
+Website: www.skyscanner.net
+
+
+Promoted Photos:
+Photo ID: promotion_01
+Image URL: https://live.staticflickr.com/3681/13654859084_c3ddd8848e_o_d.jpg
+Photo Link: https://flic.kr/p/mNCHSU
+Uploader: Nava writz
+Platform: Flickr
+Profile URL: https://www.flickr.com/photos/navawritz/
+
+
+Popular Photos:
+Photo ID: popular_01
+Image URL: https://live.staticflickr.com/4069/4467659984_c68c183360_b.jpg
+Photo Link: https://flic.kr/p/7NMVEq
+Uploader: Shannon
+Platform: Flickr
+Profile URL: https://www.flickr.com/photos/trailofdead/
+
+
+Photo ID: popular_02
+Image URL: https://live.staticflickr.com/3670/32419322614_499fc708f0_b.jpg
+Photo Link: https://flic.kr/p/RoMv9b
+Uploader: Dieter Vynckier
+Platform: Flickr
+Profile URL: https://www.flickr.com/photos/dietervynckier/
+
+
+Photo ID: popular_03
+Image URL: https://live.staticflickr.com/49/129153533_4bb1dc653b_b.jpg
+Photo Link: https://flic.kr/p/cpWR4
+Uploader: Daniela Cordero
+Platform: Flickr
+Profile URL: https://www.flickr.com/photos/danielacordero/",1,1,15,1065600
+"I need a detailed overview of New York's airports and related cities, including their titles and navigation details such as localized names and identifiers. Also, I want to know about its available rental car options, focusing on at least three available offers with information on car types, prices, and supplier ratings. Responses should provide concise and comprehensive information to help inform travel plans, combining airport data with car rental options in the same area.",Fail,-1,-1,27,106377
+"I want a comprehensive weather and air quality report for a specific location in the National Capital Region of the Philippines. I need to know the detailed weather forecast for the next few days, including temperature, humidity, and wind conditions, as well as the air quality, with information on pollutants like carbon monoxide, nitrogen dioxide, and particulate matter. The report should cover at least three upcoming forecast intervals and provide the current air quality index (AQI) and pollutant concentrations.","Weather Forecast:
+Date & Time: 2024-10-26 21:00:00
+Temperature: 299°C
+Feels Like: 299.99°C
+Humidity: 90%
+Weather: Moderate rain
+Wind Speed: 5.93 m/s
+Cloudiness: 89%
+Rain Volume (last 3 hrs): 8.27 mm
+
+
+Date & Time: 2024-10-27 00:00:00
+Temperature: 299.31°C
+Feels Like: 299.31°C
+Humidity: 86%
+Weather: Moderate rain
+Wind Speed: 6.49 m/s
+Cloudiness: 93%
+Rain Volume (last 3 hrs): 3.69 mm
+
+
+Date & Time: 2024-10-27 03:00:00
+Temperature: 300.72°C
+Feels Like: 303.7°C
+Humidity: 76%
+Weather: Light rain
+Wind Speed: 7.5 m/s
+Cloudiness: 100%
+Rain Volume (last 3 hrs): 1.26 mm
+
+
+Air Quality Report:
+Air Quality Index (AQI): 2
+Carbon Monoxide (CO): 347.14 µg/m³
+Nitric Oxide (NO): 0 µg/m³
+Nitrogen Dioxide (NO2): 4.54 µg/m³
+Ozone (O3): 70.1 µg/m³
+Sulfur Dioxide (SO2): 2.86 µg/m³
+PM2.5: 9.8 µg/m³
+PM10: 16.31 µg/m³
+Ammonia (NH3): 1.11 µg/m³
+",1,1,10,437430
+"I would like to know the exact location of Manila including latitude, longitude, country code and region details. After getting the geographic information, I want to know the air quality of the place, providing the air quality index (AQI) and the concentration of major pollutants such as carbon monoxide, nitrogen dioxide, and particulate matter. Make sure the response covers at least one specific location and includes air quality details.",Fail,-1,-1,19,78451
+"I want information about cars for specific years, including key details about models available during those years. Please provide data for the most recent three years and include details such as model names, manufacturers, and any other relevant specifications.","Fetching data for cars from the year 2025...
+
+Top 3 Car Models for 2025:
+Model Name: ******* (hidden)
+Manufacturer: Acura
+Model ID: 1
+Make ID: 1
+Link: N/A
+
+Model Name: *** (hidden)
+Manufacturer: Acura
+Model ID: 2
+Make ID: 1
+Link: N/A
+
+Model Name: ******** (hidden)
+Manufacturer: BMW
+Model ID: 9
+Make ID: 3
+Link: N/A
+
+
+Fetching data for cars from the year 2024...
+
+Top 3 Car Models for 2024:
+Model Name: ******* (hidden)
+Manufacturer: Acura
+Model ID: 1
+Make ID: 1
+Link: N/A
+
+Model Name: *** (hidden)
+Manufacturer: Acura
+Model ID: 2
+Make ID: 1
+Link: N/A
+
+Model Name: ** (hidden)
+Manufacturer: Audi
+Model ID: 3
+Make ID: 2
+Link: N/A
+
+
+Fetching data for cars from the year 2023...
+
+Top 3 Car Models for 2023:
+Model Name: ******* (hidden)
+Manufacturer: Acura
+Model ID: 1
+Make ID: 1
+Link: N/A
+
+Model Name: *** (hidden)
+Manufacturer: Acura
+Model ID: 2
+Make ID: 1
+Link: N/A
+
+Model Name: ** (hidden)
+Manufacturer: Audi
+Model ID: 3
+Make ID: 2
+Link: N/A
+",1,0,13,811148
+"I need detailed information about automobile data for the latest three years, including specific manufacturers and their details. ","Fetching car makes for the year 2025...
+
+Top 3 Car Makes for 2025:
+Make Name: Acura
+Make ID: 1
+
+Make Name: Audi
+Make ID: 2
+
+Make Name: BMW
+Make ID: 3
+
+
+Fetching car makes for the year 2024...
+
+Top 3 Car Makes for 2024:
+Make Name: Acura
+Make ID: 1
+
+Make Name: Audi
+Make ID: 2
+
+Make Name: BMW
+Make ID: 3
+
+
+Fetching car makes for the year 2023...
+
+Top 3 Car Makes for 2023:
+Make Name: Acura
+Make ID: 1
+
+Make Name: Audi
+Make ID: 2
+
+Make Name: BMW
+Make ID: 3
+",1,0,13,892762
+I need a summary of recent soccer matches and the profiles of three players from the La Liga league. ,Fail,-1,-1,26,98788
+I need to find detailed geographical information and the local time for three specific cities. ,"Location Data for New York:
+Name: New York
+Country: US
+Latitude: 40.7127281, Longitude: -74.0060152
+Local Time Information for New York:
+Time Zone ID: America/New_York
+Local Time: 2024-10-26 14:24
+
+Location Data for Tokyo:
+Name: Tokyo
+Country: JP
+Latitude: 35.6828387, Longitude: 139.7594549
+Local Time Information for Tokyo:
+Time Zone ID: Asia/Tokyo
+Local Time: 2024-10-27 03:24
+
+Location Data for London:
+Name: London
+Country: GB
+Latitude: 51.5073219, Longitude: -0.1276474
+Local Time Information for London:
+Time Zone ID: Europe/London
+Local Time: 2024-10-26 19:24",1,1,10,535380
+"I need to get information about NBA teams, including their players and details. First, gather a list of all NBA teams.",Fail,-1,-1,15,75765
+" I want to gather detailed information about a specific movie and also retrieve related anime titles. First, provide comprehensive details of a movie including its synopsis, genres, release date, streaming sources, and recommendations for similar movies. Then, fetch anime titles with similar genres and content from a large anime database, with at least three results from both categories.",Fail,-1,-1,20,84084
+"I want retrieve details of three trending TV shows and three popular movies, including their titles, genres, release dates, and short descriptions. Display the information separately for movies and TV shows, along with the poster URLs","TV Shows:
+Title: Law & Order: Special Victims Unit
+Genres: Crime, Drama, Mystery
+First Aired: 1999-09-20
+Overview: In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.
+Poster URL: https://image.tmdb.org/t/p/original/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg
+
+========================================
+
+Title: The Simpsons
+Genres: Family, Animation, Comedy
+First Aired: 1989-12-17
+Overview: Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.
+Poster URL: https://image.tmdb.org/t/p/original/zI3E2a3WYma5w8emI35mgq5Iurx.jpg
+
+========================================
+
+Title: The Last of Us
+Genres: Drama
+First Aired: 2023-01-15
+Overview: Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.
+Poster URL: https://image.tmdb.org/t/p/original/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg
+
+========================================
+
+Movies:
+Title: Ghosted
+Genres: Action & Adventure, Comedy, Romance
+Release Date: 2023-04-18
+Overview: Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.
+Poster URL: https://image.tmdb.org/t/p/original/liLN69YgoovHVgmlHJ876PKi5Yi.jpg
+
+========================================
+
+Title: AKA
+Genres: Thriller, Action & Adventure, Crime
+Release Date: 2023-04-28
+Overview: A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss' young son.
+Poster URL: https://image.tmdb.org/t/p/original/3BSxAjiporlwQTWzaHZ9Yrl5C9D.jpg
+
+========================================
+
+Title: Scream VI
+Genres: Horror, Mystery, Thriller
+Release Date: 2023-03-08
+Overview: Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.
+Poster URL: https://image.tmdb.org/t/p/original/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg
+
+========================================
+
+",1,1,14,906920
+"I want find three popular movies and then perform a search for these movies based on their titles to retrieve additional details. Display each movie's title, genre, release date, synopsis, and available streaming platforms. Provide a poster link for each movie as well.",Fail,-1,-1,26,87494
+"I want retrieve a list of available movie genres and use them to filter trending movies from different categories. For each genre, get three trending or new release movies, showing the title, genre, release date, and a short description, along with poster images.",Fail,-1,-1,21,95995
+"I want retrieve a list of three recent action movies with an IMDb rating between 6 and 8. For each movie, get additional details, including the plot summary, release date, genres, and available streaming sources. Display each movie’s title, genres, release date, IMDb rating, plot, streaming platform information, and a poster image",Fail,-1,-1,25,100061
+"I want retrieve a list of available genres and use it to search for top-ranked anime from selected genres. Retrieve three anime titles per genre, showing details including title, ranking, episode count, synopsis, status, and poster image. Display the information sorted by ranking for each genre.","Genre: Action
+Title: Fullmetal Alchemist: Brotherhood
+Ranking: 2
+Episodes: 64
+Status: Finished Airing
+Synopsis: After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.
+
+The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing ""automail,"" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.
+
+As Edward becomes an infamous alchemist and gains the nickname ""Fullmetal,"" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/1208/94745.webp
+
+--------------------
+
+Title: Gintama°
+Ranking: 4
+Episodes: 51
+Status: Finished Airing
+Synopsis: Gintoki, Shinpachi, and Kagura return as the fun-loving but broke members of the Yorozuya team! Living in an alternate-reality Edo, where swords are prohibited and alien overlords have conquered Japan, they try to thrive on doing whatever work they can get their hands on. However, Shinpachi and Kagura still haven't been paid... Does Gin-chan really spend all that cash playing pachinko?
+
+Meanwhile, when Gintoki drunkenly staggers home one night, an alien spaceship crashes nearby. A fatally injured crew member emerges from the ship and gives Gintoki a strange, clock-shaped device, warning him that it is incredibly powerful and must be safeguarded. Mistaking it for his alarm clock, Gintoki proceeds to smash the device the next morning and suddenly discovers that the world outside his apartment has come to a standstill. With Kagura and Shinpachi at his side, he sets off to get the device fixed; though, as usual, nothing is ever that simple for the Yorozuya team.
+
+Filled with tongue-in-cheek humor and moments of heartfelt emotion, Gintama's fourth season finds Gintoki and his friends facing both their most hilarious misadventures and most dangerous crises yet.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/3/72078.webp
+
+--------------------
+
+Title: Shingeki no Kyojin Season 3 Part 2
+Ranking: 5
+Episodes: 10
+Status: Finished Airing
+Synopsis: Seeking to restore humanity's diminishing hope, the Survey Corps embark on a mission to retake Wall Maria, where the battle against the merciless ""Titans"" takes the stage once again.
+
+Returning to the tattered Shiganshina District that was once his home, Eren Yeager and the Corps find the town oddly unoccupied by Titans. Even after the outer gate is plugged, they strangely encounter no opposition. The mission progresses smoothly until Armin Arlert, highly suspicious of the enemy's absence, discovers distressing signs of a potential scheme against them.
+
+Shingeki no Kyojin Season 3 Part 2 follows Eren as he vows to take back everything that was once his. Alongside him, the Survey Corps strive—through countless sacrifices—to carve a path towards victory and uncover the secrets locked away in the Yeager family's basement.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/1517/100633.webp
+
+--------------------
+
+
+========================================
+
+Genre: Adventure
+Title: Sousou no Frieren
+Ranking: 1
+Episodes: 0
+Status: Not yet aired
+Synopsis: The demon king has been defeated, and the victorious hero party returns home before disbanding. The four—mage Frieren, hero Himmel, priest Heiter, and warrior Eisen—reminisce about their decade-long journey as the moment to bid each other farewell arrives. But the passing of time is different for elves, thus Frieren witnesses her companions slowly pass away one by one.
+
+Before his death, Heiter manages to foist a young human apprentice called Fern onto Frieren. Driven by the elf's passion for collecting a myriad of magic spells, the pair embarks on a seemingly aimless journey, revisiting the places that the heroes of yore had visited. Along their travels, Frieren slowly confronts her regrets of missed opportunities to form deeper bonds with her now-deceased comrades.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/1015/138006.webp
+
+--------------------
+
+Title: Fullmetal Alchemist: Brotherhood
+Ranking: 2
+Episodes: 64
+Status: Finished Airing
+Synopsis: After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.
+
+The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing ""automail,"" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.
+
+As Edward becomes an infamous alchemist and gains the nickname ""Fullmetal,"" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/1208/94745.webp
+
+--------------------
+
+Title: Hunter x Hunter (2011)
+Ranking: 8
+Episodes: 148
+Status: Finished Airing
+Synopsis: Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.
+
+Ambitious participants who challenge the notorious exam carry their own reason. What drives 12-year-old Gon Freecss is finding Ging, his father and a Hunter himself. Believing that he will meet his father by becoming a Hunter, Gon takes the first step to walk the same path.
+
+During the Hunter Examination, Gon befriends the medical student Leorio Paladiknight, the vindictive Kurapika, and ex-assassin Killua Zoldyck. While their motives vastly differ from each other, they band together for a common goal and begin to venture into a perilous world.
+
+[Written by MAL Rewrite]
+Poster URL: https://cdn.myanimelist.net/images/anime/1337/99013.webp
+
+--------------------
+
+
+========================================
+
+Genre: Animation
+
+========================================
+",1,1,15,1047195
+"I want retrieve information about recently added movies available for streaming in the US, including the title, genre, IMDb rating, release year, synopsis, and streaming platforms. Additionally, fetch basic biographical details about Robert Downey Jr., including his birth name, birth date, and notable works. Finally, get details of three top-ranked anime titles, including their title, genre, ranking, and a brief synopsis.etrieve information about recently added movies available for streaming in the US, including the title, genre, IMDb rating, release year, synopsis, and streaming platforms. Additionally, fetch basic biographical details about Robert Downey Jr., including his birth name, birth date, and notable works. Finally, get details of three top-ranked anime titles, including their title, genre, ranking, and a brief synopsis.",Fail,-1,-1,16,109919
+"I need to get a list of countries and, based on that, retrieve customer reviews for a specific product. Show me the product's top three reviews, including user details, review date, rating, content, and any images provided by the reviewer. Include the name of the country where each review was submitted if available.","Countries List:
+AL - Albania
+AD - Andorra
+AO - Angola
+AI - Anguilla
+AG - Antigua and Barbuda
+AR - Argentina
+AM - Armenia
+AW - Aruba
+AU - Australia
+AT - Austria
+AZ - Azerbaijan
+BS - Bahamas
+BH - Bahrain
+BB - Barbados
+BE - Belgium
+BZ - Belize
+BJ - Benin
+BM - Bermuda
+BT - Bhutan
+BO - Bolivia
+BW - Botswana
+BR - Brazil
+BN - Brunei Darussalam
+BG - Bulgaria
+BF - Burkina Faso
+BI - Burundi
+KH - Cambodia
+CM - Cameroon
+CA - Canada
+CV - Cape Verde
+KY - Cayman Islands
+CF - Central African Republic
+TD - Chad
+CL - Chile
+CO - Colombia
+KM - Comoros
+CG - Congo
+CK - Cook Islands
+CR - Costa Rica
+HR - Croatia (local name: Hrvatska)
+CY - Cyprus
+CZ - Czech Republic
+DK - Denmark
+DJ - Djibouti
+DM - Dominica
+DO - Dominican Republic
+TL - East Timor
+EC - Ecuador
+EG - Egypt
+SV - El Salvador
+GQ - Equatorial Guinea
+ER - Eritrea
+EE - Estonia
+ET - Ethiopia
+FJ - Fiji
+FI - Finland
+FR - France
+GA - Gabon
+GM - Gambia
+GE - Georgia
+DE - Germany
+GH - Ghana
+GI - Gibraltar
+GR - Greece
+GL - Greenland
+GD - Grenada
+GP - Guadeloupe
+GU - Guam
+GN - Guinea
+GW - Guinea-Bissau
+GY - Guyana
+HT - Haiti
+HN - Honduras
+HU - Hungary
+IS - Iceland
+ID - Indonesia
+IE - Ireland
+IL - Israel
+IT - Italy
+JM - Jamaica
+JP - Japan
+JO - Jordan
+KZ - Kazakhstan
+KE - Kenya
+KW - Kuwait
+KG - Kyrgyzstan
+LA - Lao People's Democratic Republic
+LV - Latvia
+LB - Lebanon
+LS - Lesotho
+LR - Liberia
+LI - Liechtenstein
+LT - Lithuania
+LU - Luxembourg
+MO - Macau
+MG - Madagascar
+MW - Malawi
+MY - Malaysia
+MV - Maldives
+ML - Mali
+MT - Malta
+MQ - Martinique
+MU - Mauritius
+YT - Mayotte
+MX - Mexico
+MD - Moldova
+MN - Mongolia
+ME - Montenegro
+MA - Morocco
+MZ - Mozambique
+MM - Myanmar
+NA - Namibia
+NP - Nepal
+NL - Netherlands
+NC - New Caledonia
+NZ - New Zealand
+NG - Nigeria
+NF - Norfolk Island
+NO - Norway
+OM - Oman
+PK - Pakistan
+PS - Palestine
+PA - Panama
+PG - Papua New Guinea
+PY - Paraguay
+PE - Peru
+PH - Philippines
+PL - Poland
+PT - Portugal
+PR - Puerto Rico
+QA - Qatar
+RE - Reunion
+RO - Romania
+RW - Rwanda
+LC - Saint Lucia
+SM - San Marino
+SA - Saudi Arabia
+RS - Serbia
+SN - Senegal
+SC - Seychelles
+SL - Sierra Leone
+SG - Singapore
+SK - Slovakia (Slovak Republic)
+SI - Slovenia
+SO - Somalia
+ZA - South Africa
+KR - South Korea
+ES - Spain
+LK - Sri Lanka
+SR - Suriname
+SZ - Swaziland
+SE - Sweden
+CH - Switzerland
+TW - Taiwan
+TJ - Tajikistan
+TZ - Tanzania
+TH - Thailand
+TG - Togo
+TT - Trinidad and Tobago
+TR - Turkey
+TC - Turks and Caicos Islands
+UG - Uganda
+UA - Ukraine
+AE - United Arab Emirates
+GB - United Kingdom
+US - United States
+UZ - Uzbekistan
+VU - Vanuatu
+VA - Vatican City State (Holy See)
+VN - Vietnam
+VI - Virgin Islands (U.S.)
+ZM - Zambia
+ZW - Zimbabwe
+
+========================================
+
+Customer Reviews:
+User: A***y
+Date: 1 year ago
+Rating: 5
+Review:
+Country Code: en
+Images:
+ - images3/2023/03/28/16799400683fd3568c434d692b7b43d73654558792_thumbnail_80x120.webp
+ - images3/2023/03/28/167994007052833fb422a619aec64a2dcb5ee5635c_thumbnail_80x120.webp
+ - images3/2023/03/28/1679940073e3e75b58fb7dfec40b2e42725ce7f87a_thumbnail_80x120.webp
+
+--------------------
+
+User: n***0
+Date: 1 year ago
+Rating: 5
+Review: Love the shirt, very funny. Good material
+Country Code: en
+Images:
+ - images3/2023/03/28/16799350097f7670592a47de5874da4f9ef287e901_thumbnail_80x120.webp
+
+--------------------
+
+User: T***a
+Date: 1 year ago
+Rating: 5
+Review:
+Country Code: en
+Images:
+ - images3/2023/03/22/1679450297277064458a47827a110c115354016325_thumbnail_80x120.webp
+
+--------------------
+",1,1,11,544038
+"I need to view a list of countries and select specific ones to retrieve detailed information, including supported languages and currencies. Display the country's full name, supported languages, and currency details for each selected country.",Fail,-1,-1,16,77079
+"I need to view a list of navigation tabs with detailed information, including each tab’s ID, name, associated channel, and category IDs. Then, based on a specified tab’s channel ID, retrieve the root categories within that channel to see each category’s name, ID, and sub-categories.",Fail,-1,-1,20,99763
+"I need a list of all available countries, categorized into featured and standard countries, and their identifiers. Additionally, I want the navigation tabs with details for each tab, including their names, associated channels, and category IDs. Please provide results for three countries and three tabs.","Featured Countries:
+- United States (Code: US, ID: 226)
+
+All Countries:
+- Albania (Code: AL, ID: 2)
+- Andorra (Code: AD, ID: 5)
+- Angola (Code: AO, ID: 6)
+
+Navigation Tabs:
+- Tab Name: All, Channel: All, Category IDs: 1864,2026,2031,2032,2038,2273,2297,2400,3195,3224,3631,3634,3636,3637,3650,3657,4327,4328,4436,4083
+- Tab Name: Women, Channel: Women, Category IDs: 4436,2041,2042,3644,7469,4816,4815,4813,4811,4808,4806,4804,3863,3694,3686,2475,4451,4801,4802,2031,2032,4314,4295,4293,4292,3812,3627,3626,3625,2347,2346,2208,2273,2297,2400,1894,2491,4329,4331,4335,4350,4366,4379,4396,4409,4413,4422,4424,5106,5247,5290,5301,5348,5796,5797,6376,7152,3224,1765,5806,5826,5906,5907,6219,6217,4656,4438,4219,3632,3035,3029,1745,4803,5928,2043,4099,4258,4268,4458,3650,3657,4083,4327,4328,2462,2463,2464,2465
+- Tab Name: Curve, Channel: PlusSize, Category IDs: 1888,3734,2346,2347,2491,3613
+",1,1,10,490620
+"I need a list of countries, including their featured and full lists with each country’s unique identifiers and short codes. Then, for three specific countries from this list, I need to retrieve additional details, including supported languages and currency settings. Finally, I want to view the top reviews for a product based on available product identifiers, including user information, product details, and review comments. Please provide at least three reviews for context.",Fail,-1,-1,23,82775
+"I need to retrieve the latest news articles from a specified source along with their publication details, images, and URLs. Additionally, I want a list of general recent news articles from various sources, including titles, publication dates, and brief previews. Please provide as many results as possible, with at least three articles from each category.","Latest News from Source (BBC):
+
+Title: Firms must prevent sexual harassment under new law
+Published Date: Fri, 25 Oct 2024 23:43:11 GMT
+URL: https://www.bbc.co.uk/news/business-65311346?ref=biztoc.com
+Image (Small): https://cdn.biztoc.com/1a0da8ad8878aa79_s.webp
+Image (Square): https://cdn.biztoc.com/1a0da8ad8878aa79_sq.webp
+Summary: Employers must take steps to prevent sexual harassment in the workplace, under a new law.
+The Worker Protection Act also states employers must discipline or hold accountable those who are found guilty of sexual harassment.
+The new rules from 26 October include harassment via social media and also…
+
+Title: Employers' National Insurance hike to raise £20bn
+Published Date: Fri, 25 Oct 2024 21:57:05 GMT
+URL: https://www.bbc.com/news/articles/c9wrkngvyx4o?ref=biztoc.com
+Image (Small): https://cdn.biztoc.com/3263d1f20185ed35_s.webp
+Image (Square): https://cdn.biztoc.com/3263d1f20185ed35_sq.webp
+Summary: Employers' National Insurance hike to raise £20bn
+The chancellor is set to increase the amount employers in the UK pay in National Insurance to raise £20bn for public services at the Budget.
+Rachel Reeves is also expected to lower the threshold for when employers start paying the tax, but is not…
+
+Title: 'I can't run a business like this': Why the WordPress row matters
+Published Date: Fri, 25 Oct 2024 21:55:34 GMT
+URL: https://www.bbc.com/news/articles/cm2y7eyp3zpo?ref=biztoc.com
+Image (Small): https://cdn.biztoc.com/48d5475d43274c4e_s.webp
+Image (Square): https://cdn.biztoc.com/48d5475d43274c4e_sq.webp
+Summary: 'I can't run a business like this': Why the WordPress row matters
+One of the world's biggest web publishing platforms - used by a large chunk of the internet - is locked in a spat which is affecting thousands of businesses worldwide.
+While most of the work WordPress does is not seen by internet…
+
+Latest General News:
+
+Title: Capcom Co., Ltd. (OTCMKTS:CCOEY) Short Interest Down 63.1% in October
+Source: marketbeat.com
+Published Date: 2024-10-26 17:27:17
+URL: https://www.marketbeat.com/instant-alerts/otcmkts-ccoey-options-data-report-2024-10-26/?ref=biztoc.com
+Preview: Capcom Co., Ltd. (OTCMKTS:CCOEY - Get Free Report) was the target of a large decline in short interest in October. As of October 15th, there was short interest totalling 10,300 shares, a decline of 63.1% from the September 30th total of 27,900 shares. Based on an average trading volume of 31,400…
+
+Title: CBB Bancorp, Inc. (OTCMKTS:CBBI) Short Interest Update
+Source: marketbeat.com
+Published Date: 2024-10-26 17:27:16
+URL: https://www.marketbeat.com/instant-alerts/otcmkts-cbbi-options-data-report-2024-10-26/?ref=biztoc.com
+Preview: CBB Bancorp, Inc. (OTCMKTS:CBBI - Get Free Report) was the target of a large drop in short interest in October. As of October 15th, there was short interest totalling 100 shares, a drop of 50.0% from the September 30th total of 200 shares. Based on an average daily volume of 6,200 shares, the…
+
+Title: China Resources Building Materials Technology Holdings Limited (OTCMKTS:CARCY) Short Interest Up 125.0% in October
+Source: marketbeat.com
+Published Date: 2024-10-26 17:27:15
+URL: https://www.marketbeat.com/instant-alerts/otcmkts-carcy-options-data-report-2024-10-26/?ref=biztoc.com
+Preview: China Resources Building Materials Technology Holdings Limited (OTCMKTS:CARCY - Get Free Report) saw a significant growth in short interest in the month of October. As of October 15th, there was short interest totalling 900 shares, a growth of 125.0% from the September 30th total of 400 shares.…
+",1,1,12,746640
+"I need a list of available news sources, including each source's title and website URL, excluding social media and ticker sources. Additionally, I want detailed information on movies or TV shows that match a specific search term, including details such as images, genre, release date, streaming sources, and average rating. Provide as many as three items for each request.",Fail,-1,-1,28,106131
+"I need a summary of the latest news articles across different topics, including their titles, sources, publication dates, and links. Also, please provide a list of trending news topics, each with the most popular articles related to the topic. Additionally, I want a list of movies or TV shows based on a specific keyword or title, along with details like release date, rating, genre, trailer link, and streaming platforms.",Fail,-1,-1,15,108835
+"I need to gather the latest news articles across various sections, such as general news, technology, culture, and sports, from global and BBC-exclusive sources, as well as social media in Chinese. The summary should include titles, brief descriptions, image links, and URLs where available. Additionally, I want a selection of trending news in Chinese from popular social media platforms, with details on publication times and direct links",Fail,-1,-1,21,96501
+"I need a brief overview of a specific joke by its unique identifier, including the setup and punchline, as well as essential details about the planets in our Solar System, with a summary of each planet’s attributes like volume, mass, a brief description, and a link to an image.",Fail,-1,-1,23,99331
+"I need information on a specific plant, including its scientific name, habitat, growth details, and visual characteristics. Additionally, I want details about three movies or TV shows that match a specific keyword, providing information like title, genre, rating, release date, and streaming sources.","Plant Information:
+Name: Alpen-Fettkraut
+Scientific Name: Pinguícula alpína
+Habitat: 17
+Climate: 4
+Appearance: Die Wurzeln der Pflanze sind lediglich 1 bis 2 cm lang. Die fleischigen Laubblätter bilden am Boden eine Rosette. Die Blattoberfläche ist klebrig, wodurch Insekten gefangen werden. Die Verdauung der Insekten erfolgt mittels eines Enzyms, das aus Drüsen an der Blattoberfläche ausgeschieden wird. Die Blätter können sich bis zur Mitte einrollen.
+
+Movies Information:
+Title: Inception
+Genre: Action & Adventure, Sci-Fi & Fantasy, Action & Adventure
+Rating: 8.362
+Release Date: 2010-07-15
+Streaming Sources: ['HBO Max', 'Netflix', 'Vudu', 'Apple TV']
+
+Title: The Crack: Inception
+Genre: Drama, Thriller
+Rating: 6.897
+Release Date: 2019-10-04
+Streaming Sources: []
+",1,0,14,844242
+"I need to calculate the power in watts for both a single-phase and a three-phase system. For the single-phase calculation, use a current of 13 amperes, with the default voltage (230 volts) and power factor (0.95). For the three-phase calculation, also use a current of 13 amperes, with the default three-phase voltage (400 volts) and power factor (0.95).","Single-Phase Power Calculation:
+Power: 2840.5 watts
+
+Three-Phase Power Calculation:
+Power: 8556.33 watts
+",1,1,14,992740
+"I need detailed information about a chemical element, including its atomic number, atomic mass, electron configuration, and year of discovery. Additionally, I want to understand the objectives and targets related to the ""Life on Land"" sustainable development goal, with actionable tips for promoting sustainable land use and biodiversity conservation.",Fail,-1,-1,22,95248
+"I need the current weather and a 3-day forecast for a specified location. Please provide detailed information on the current conditions, including temperature, wind speed, and humidity, along with a 3-day forecast of daily temperature ranges, precipitation chances, and wind speeds. Include hourly details for each day, and ensure the data includes sunrise, sunset, and moon phase information.",Fail,-1,-1,30,108368
+"I need geolocation and timezone details based on a specific IP address. This includes detailed information about the location, such as the continent, country, city, latitude, and longitude, as well as the timezone, local time, and other related data. Additionally, I need the time zone information verified and detailed through the timezone API.",Fail,-1,-1,23,89192
+"I need the current weather and astronomical data for a specified location, including temperature, wind speed, humidity, sunrise, sunset, moonrise, moonset, and moon phase. Ensure the weather and astronomical details are specific to this location and include as much information as possible for both conditions in a single retrieval.","Current Weather Data: {'location': {'name': 'New York', 'region': 'New York', 'country': 'United States of America', 'lat': 40.7142, 'lon': -74.0064, 'tz_id': 'America/New_York', 'localtime_epoch': 1729965837, 'localtime': '2024-10-26 14:03'}, 'current': {'last_updated_epoch': 1729965600, 'last_updated': '2024-10-26 14:00', 'temp_c': 17.2, 'temp_f': 63.0, 'is_day': 1, 'condition': {'text': 'Sunny', 'icon': '//cdn.weatherapi.com/weather/64x64/day/113.png', 'code': 1000}, 'wind_mph': 15.4, 'wind_kph': 24.8, 'wind_degree': 316, 'wind_dir': 'NW', 'pressure_mb': 1020.0, 'pressure_in': 30.12, 'precip_mm': 0.0, 'precip_in': 0.0, 'humidity': 29, 'cloud': 0, 'feelslike_c': 17.2, 'feelslike_f': 63.0, 'windchill_c': 18.3, 'windchill_f': 64.9, 'heatindex_c': 18.3, 'heatindex_f': 64.9, 'dewpoint_c': 9.7, 'dewpoint_f': 49.4, 'vis_km': 16.0, 'vis_miles': 9.0, 'uv': 5.0, 'gust_mph': 18.9, 'gust_kph': 30.3}}
+Astronomy Data: {'location': {'name': 'New York', 'region': 'New York', 'country': 'United States of America', 'lat': 40.7142, 'lon': -74.0064, 'tz_id': 'America/New_York', 'localtime_epoch': 1729965835, 'localtime': '2024-10-26 14:03'}, 'astronomy': {'astro': {'sunrise': '07:21 AM', 'sunset': '05:58 PM', 'moonrise': '02:33 AM', 'moonset': '04:01 PM', 'moon_phase': 'Waning Crescent', 'moon_illumination': 25, 'is_moon_up': 0, 'is_sun_up': 0}}}
+",1,1,11,566203
+"I need the current weather, timezone, and historical weather data for a specific location. Please include current temperature, wind speed, and humidity, timezone details with local time, and historical weather data for a specific date, including daily high and low temperatures, precipitation, and significant events such as sunrise, sunset, and moon phase.",Fail,-1,-1,16,108335
+"I need to get the forecasted weather, geolocation based on an IP address, and autocomplete suggestions for a location name. Specifically, I want the 3-day weather forecast for a specified location with hourly details, geolocation data for a given IP, and detailed autocomplete information (including geographical coordinates and unique identifiers) for a specified place.",Fail,-1,-1,21,76707
+"I need detailed weather data, including both historical hourly and monthly records, for a specified weather station. Additionally, I want to retrieve location details and identifiers for a city using an autocomplete search. Please provide hourly historical data with details such as temperature, humidity, and wind, and monthly data including average, minimum, and maximum temperatures, along with precipitation and sunshine duration. For location details, retrieve the city name, region, country, and coordinates.","Location Autocomplete Data: [{'id': 2548773, 'name': 'Los Angeles', 'region': 'California', 'country': 'United States of America', 'lat': 34.05, 'lon': -118.24, 'url': 'los-angeles-california-united-states-of-america'}, {'id': 371191, 'name': 'Los Angeles', 'region': 'Bio-Bio', 'country': 'Chile', 'lat': -37.47, 'lon': -72.35, 'url': 'los-angeles-bio-bio-chile'}, {'id': 1849673, 'name': 'Los Angeles', 'region': 'Butuan', 'country': 'Philippines', 'lat': 9.01, 'lon': 125.61, 'url': 'los-angeles-butuan-philippines'}, {'id': 3265054, 'name': 'Los Angeles', 'region': 'Guanajuato', 'country': 'Mexico', 'lat': 20.55, 'lon': -100.94, 'url': 'los-angeles-guanajuato-mexico'}, {'id': 3217043, 'name': 'Los Angeles', 'region': 'Oaxaca', 'country': 'Mexico', 'lat': 17.16, 'lon': -97.8, 'url': 'los-angeles-oaxaca-mexico'}]
+Hourly Station Data: {'meta': {'generated': '2024-10-26 18:10:22'}, 'data': [{'time': '2023-01-01 00:00:00', 'temp': 10.9, 'dwpt': 6.8, 'rhum': 76.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 10.1, 'wpgt': 17.0, 'pres': 1017.4, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 01:00:00', 'temp': 12.4, 'dwpt': 7.7, 'rhum': 73.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 230.0, 'wspd': 15.5, 'wpgt': 22.0, 'pres': 1017.2, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 02:00:00', 'temp': 11.9, 'dwpt': 7.2, 'rhum': 73.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 190.0, 'wspd': 10.8, 'wpgt': 19.0, 'pres': 1017.2, 'tsun': 0, 'coco': 1}, {'time': '2023-01-01 03:00:00', 'temp': 11.2, 'dwpt': 7.5, 'rhum': 78.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 200.0, 'wspd': 5.4, 'wpgt': 10.0, 'pres': 1017.8, 'tsun': 0, 'coco': 2}, {'time': '2023-01-01 04:00:00', 'temp': 11.7, 'dwpt': 7.6, 'rhum': 76.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 110.0, 'wspd': 4.0, 'wpgt': 9.0, 'pres': 1017.9, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 05:00:00', 'temp': 8.8, 'dwpt': 6.9, 'rhum': 88.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 200.0, 'wspd': 8.6, 'wpgt': 17.0, 'pres': 1018.1, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 06:00:00', 'temp': 11.1, 'dwpt': 7.6, 'rhum': 79.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 200.0, 'wspd': 14.0, 'wpgt': 33.0, 'pres': 1018.5, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 07:00:00', 'temp': 10.9, 'dwpt': 7.2, 'rhum': 78.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 210.0, 'wspd': 12.6, 'wpgt': 24.0, 'pres': 1019.0, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 08:00:00', 'temp': 11.5, 'dwpt': 7.2, 'rhum': 75.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 15.8, 'wpgt': 29.0, 'pres': 1019.7, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 09:00:00', 'temp': 11.1, 'dwpt': 7.4, 'rhum': 78.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 15.1, 'wpgt': 32.0, 'pres': 1020.0, 'tsun': 5, 'coco': 4}, {'time': '2023-01-01 10:00:00', 'temp': 13.3, 'dwpt': 7.9, 'rhum': 70.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 14.8, 'wpgt': 26.0, 'pres': 1020.3, 'tsun': 1, 'coco': 4}, {'time': '2023-01-01 11:00:00', 'temp': 14.4, 'dwpt': 7.7, 'rhum': 64.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 20.5, 'wpgt': 31.0, 'pres': 1020.3, 'tsun': 4, 'coco': 4}, {'time': '2023-01-01 12:00:00', 'temp': 14.8, 'dwpt': 8.3, 'rhum': 65.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 22.3, 'wpgt': 35.0, 'pres': 1019.4, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 13:00:00', 'temp': 15.0, 'dwpt': 7.8, 'rhum': 62.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 22.0, 'wpgt': 37.0, 'pres': 1019.5, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 14:00:00', 'temp': 14.7, 'dwpt': 7.7, 'rhum': 63.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 220.0, 'wspd': 20.2, 'wpgt': 31.0, 'pres': 1019.6, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 15:00:00', 'temp': 14.2, 'dwpt': 8.4, 'rhum': 68.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 210.0, 'wspd': 15.1, 'wpgt': 26.0, 'pres': 1019.7, 'tsun': 0, 'coco': 7}, {'time': '2023-01-01 16:00:00', 'temp': 14.3, 'dwpt': 7.8, 'rhum': 65.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 210.0, 'wspd': 11.2, 'wpgt': 23.0, 'pres': 1019.4, 'tsun': 0, 'coco': 7}, {'time': '2023-01-01 17:00:00', 'temp': 12.1, 'dwpt': 8.2, 'rhum': 77.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 190.0, 'wspd': 6.1, 'wpgt': 14.0, 'pres': 1019.4, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 18:00:00', 'temp': 11.5, 'dwpt': 8.2, 'rhum': 80.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 160.0, 'wspd': 6.8, 'wpgt': 14.0, 'pres': 1018.8, 'tsun': 0, 'coco': 8}, {'time': '2023-01-01 19:00:00', 'temp': 11.2, 'dwpt': 8.2, 'rhum': 82.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 140.0, 'wspd': 6.5, 'wpgt': 15.0, 'pres': 1018.2, 'tsun': 0, 'coco': 8}, {'time': '2023-01-01 20:00:00', 'temp': 10.7, 'dwpt': 8.1, 'rhum': 84.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 90.0, 'wspd': 2.5, 'wpgt': 11.0, 'pres': 1017.7, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 21:00:00', 'temp': 10.3, 'dwpt': 8.2, 'rhum': 87.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 310.0, 'wspd': 4.3, 'wpgt': 15.0, 'pres': 1017.4, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 22:00:00', 'temp': 10.3, 'dwpt': 7.9, 'rhum': 85.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 210.0, 'wspd': 4.7, 'wpgt': 14.0, 'pres': 1017.7, 'tsun': 0, 'coco': 4}, {'time': '2023-01-01 23:00:00', 'temp': 9.2, 'dwpt': 7.5, 'rhum': 89.0, 'prcp': 0.0, 'snow': 0.0, 'wdir': 160.0, 'wspd': 2.9, 'wpgt': 5.0, 'pres': 1017.9, 'tsun': 0, 'coco': 4}]}
+Monthly Station Data: {'meta': {'generated': '2024-10-26 18:10:23'}, 'data': [{'date': '2023-01-01', 'tavg': 5.0, 'tmin': 2.5, 'tmax': 7.1, 'prcp': 62.9, 'wspd': 16.8, 'pres': 1018.7, 'tsun': 2052}, {'date': '2023-02-01', 'tavg': 4.9, 'tmin': 1.3, 'tmax': 8.4, 'prcp': 9.3, 'wspd': 13.7, 'pres': 1028.9, 'tsun': 5808}, {'date': '2023-03-01', 'tavg': 7.6, 'tmin': 3.1, 'tmax': 12.2, 'prcp': 98.1, 'wspd': 16.1, 'pres': 1012.6, 'tsun': 6792}, {'date': '2023-04-01', 'tavg': 9.6, 'tmin': 4.7, 'tmax': 14.3, 'prcp': 43.9, 'wspd': 12.9, 'pres': 1017.3, 'tsun': 9372}, {'date': '2023-05-01', 'tavg': 15.8, 'tmin': 10.2, 'tmax': 21.2, 'prcp': 53.3, 'wspd': 13.2, 'pres': 1019.9, 'tsun': 16212}, {'date': '2023-06-01', 'tavg': 21.7, 'tmin': 14.5, 'tmax': 28.2, 'prcp': 37.6, 'wspd': 11.5, 'pres': 1017.1, 'tsun': 20304}, {'date': '2023-07-01', 'tavg': 20.8, 'tmin': 14.2, 'tmax': 26.7, 'prcp': 107.5, 'wspd': 14.6, 'pres': 1014.4, 'tsun': 13914}, {'date': '2023-08-01', 'tavg': 19.7, 'tmin': 14.8, 'tmax': 25.2, 'prcp': 137.2, 'wspd': 11.8, 'pres': 1015.0, 'tsun': 11076}, {'date': '2023-09-01', 'tavg': 18.8, 'tmin': 12.7, 'tmax': 25.5, 'prcp': 20.8, 'wspd': 9.5, 'pres': 1018.5, 'tsun': 15804}, {'date': '2023-10-01', 'tavg': 12.9, 'tmin': 8.0, 'tmax': 18.0, 'prcp': 80.8, 'wspd': 11.9, 'pres': 1012.9, 'tsun': 6894}, {'date': '2023-11-01', 'tavg': 7.3, 'tmin': 4.4, 'tmax': 10.1, 'prcp': 91.1, 'wspd': 17.0, 'pres': 1009.1, 'tsun': 1908}, {'date': '2023-12-01', 'tavg': 5.4, 'tmin': 2.6, 'tmax': 7.6, 'prcp': 66.2, 'wspd': 17.2, 'pres': 1016.4, 'tsun': 1548}]}
+",1,0,15,1159440
+"I need detailed address information based on a query search, including postal codes, street names, and geographical coordinates. Additionally, I want detailed album information, covering artists, tracks, and release details for specified album IDs. Please provide address details with as many results as possible (up to a limit of 10) and detailed album information including tracks and artists.","Address Details: {'success': True, 'results': [{'postCode': 'SW1A 2AA', 'postCodeTrimmed': 'SW1A2AA', 'streetName': 'Downing Street', 'longitude': -0.127695, 'latitude': 51.50354, 'plusCode': '9C3XGV3C+CW', 'region': 'Greater London', 'locality': 'London', 'area': 'England', 'numUPRNs': 2}, {'postCode': 'SW1A 2AB', 'postCodeTrimmed': 'SW1A2AB', 'streetName': 'Downing Street', 'longitude': -0.127874, 'latitude': 51.503399, 'plusCode': '9C3XGV3C+9V', 'region': 'Greater London', 'locality': 'London', 'area': 'England', 'numUPRNs': 1}, {'postCode': 'SW1A 2AD', 'postCodeTrimmed': 'SW1A2AD', 'streetName': 'Downing Street', 'longitude': -0.128105, 'latitude': 51.503384, 'plusCode': '9C3XGV3C+9Q', 'region': 'Greater London', 'locality': 'London', 'area': 'England', 'numUPRNs': 2}, {'postCode': 'SW1A 2AG', 'postCodeTrimmed': 'SW1A2AG', 'streetName': 'Downing Street', 'longitude': -0.126639, 'latitude': 51.503649, 'plusCode': '9C3XGV3F+F8', 'region': 'Greater London', 'locality': 'London', 'area': 'England', 'numUPRNs': 3}, {'postCode': 'SW1A 2AL', 'postCodeTrimmed': 'SW1A2AL', 'streetName': 'Downing Street', 'longitude': -0.126639, 'latitude': 51.503649, 'plusCode': '9C3XGV3F+F8', 'region': 'Greater London', 'locality': 'London', 'area': 'England', 'numUPRNs': 1}]}
+Album Details: {'albums': [{'album_type': 'album', 'total_tracks': 10, 'is_playable': True, 'external_urls': {'spotify': 'https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv'}, 'id': '3IBcauSj5M2A6lTeffJzdv', 'images': [{'url': 'https://i.scdn.co/image/ab67616d0000b27367c738a703dc979f5c3c52ef', 'height': 640, 'width': 640}, {'url': 'https://i.scdn.co/image/ab67616d00001e0267c738a703dc979f5c3c52ef', 'height': 300, 'width': 300}, {'url': 'https://i.scdn.co/image/ab67616d0000485167c738a703dc979f5c3c52ef', 'height': 64, 'width': 64}], 'name': 'Kan', 'release_date': '2021-03-19', 'release_date_precision': 'day', 'type': 'album', 'uri': 'spotify:album:3IBcauSj5M2A6lTeffJzdv', 'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'tracks': {'limit': 50, 'next': None, 'offset': 0, 'previous': None, 'total': 10, 'items': [{'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 211016, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e'}, 'id': '5jvhTc0g18kwYQNUJM5C4e', 'is_playable': True, 'name': 'Makina', 'preview_url': 'https://p.scdn.co/mp3-preview/27ab6f738e8bbb6be4225f2e10886883ef760381?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 1, 'type': 'track', 'uri': 'spotify:track:5jvhTc0g18kwYQNUJM5C4e', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 185458, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob'}, 'id': '72t3CRd8YEFrlc3x0OVaob', 'is_playable': True, 'name': 'Umrumda Değil', 'preview_url': 'https://p.scdn.co/mp3-preview/ca2df079cdae1386e8b2899951cadf93c335018c?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 2, 'type': 'track', 'uri': 'spotify:track:72t3CRd8YEFrlc3x0OVaob', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED'}, 'id': '3BVPc9s4JXzM6O1InlLxED', 'name': 'Mavi', 'type': 'artist', 'uri': 'spotify:artist:3BVPc9s4JXzM6O1InlLxED'}], 'disc_number': 1, 'duration_ms': 200000, 'explicit': False, 'external_urls': {'spotify': 'https://open.spotify.com/track/5TkQatzJqKafPgHQerZ0dL'}, 'id': '5TkQatzJqKafPgHQerZ0dL', 'is_playable': True, 'name': 'Gecenin Içine Gir', 'preview_url': 'https://p.scdn.co/mp3-preview/dad0bc5179800da1fe3d5a7c8ca5d9c8563b786b?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 3, 'type': 'track', 'uri': 'spotify:track:5TkQatzJqKafPgHQerZ0dL', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 243205, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/6IW5ocUH5DRWagxkLTlbUS'}, 'id': '6IW5ocUH5DRWagxkLTlbUS', 'is_playable': True, 'name': 'Nedenini Sorma', 'preview_url': 'https://p.scdn.co/mp3-preview/3b60dc4dd3c57960b5e5309f069709034d5e6888?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 4, 'type': 'track', 'uri': 'spotify:track:6IW5ocUH5DRWagxkLTlbUS', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7GaMopkesD4KK9dNbgyO5D'}, 'id': '7GaMopkesD4KK9dNbgyO5D', 'name': 'Eko Fresh', 'type': 'artist', 'uri': 'spotify:artist:7GaMopkesD4KK9dNbgyO5D'}], 'disc_number': 1, 'duration_ms': 152301, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/1ijjjMFlM3Pe8t3ykXBzxk'}, 'id': '1ijjjMFlM3Pe8t3ykXBzxk', 'is_playable': True, 'name': 'Mahalle', 'preview_url': 'https://p.scdn.co/mp3-preview/355ebff1c469cda6bc280f59cf4546c4a8c0e13a?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 5, 'type': 'track', 'uri': 'spotify:track:1ijjjMFlM3Pe8t3ykXBzxk', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 171880, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9'}, 'id': '4a1WLOoydq7u011UG9jjC9', 'is_playable': True, 'name': 'Krvn', 'preview_url': 'https://p.scdn.co/mp3-preview/c595da41713f76fe3935b4314acda5b4b54a82c2?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 6, 'type': 'track', 'uri': 'spotify:track:4a1WLOoydq7u011UG9jjC9', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 155010, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/4hy4nY2PiYWx8qVXjpky3P'}, 'id': '4hy4nY2PiYWx8qVXjpky3P', 'is_playable': True, 'name': 'Vur', 'preview_url': 'https://p.scdn.co/mp3-preview/5b57e9e80e8dc443ad508fa794686e731a3e92ef?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 7, 'type': 'track', 'uri': 'spotify:track:4hy4nY2PiYWx8qVXjpky3P', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO'}, 'id': '6dOAGo4z0syiCjbnlh4VSO', 'name': 'Critical', 'type': 'artist', 'uri': 'spotify:artist:6dOAGo4z0syiCjbnlh4VSO'}], 'disc_number': 1, 'duration_ms': 223608, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/4PpYi6USHlY7OhOcDASnD3'}, 'id': '4PpYi6USHlY7OhOcDASnD3', 'is_playable': True, 'name': 'Davetiye', 'preview_url': 'https://p.scdn.co/mp3-preview/f162cdd28694f1289d689294a35937d51255e333?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 8, 'type': 'track', 'uri': 'spotify:track:4PpYi6USHlY7OhOcDASnD3', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3R27mVPp04i87RNmvysZfY'}, 'id': '3R27mVPp04i87RNmvysZfY', 'name': 'Stap', 'type': 'artist', 'uri': 'spotify:artist:3R27mVPp04i87RNmvysZfY'}], 'disc_number': 1, 'duration_ms': 196682, 'explicit': True, 'external_urls': {'spotify': 'https://open.spotify.com/track/5gx3dMxQGJ1JDw5qHarRqp'}, 'id': '5gx3dMxQGJ1JDw5qHarRqp', 'is_playable': True, 'name': 'Elhamdulillah', 'preview_url': 'https://p.scdn.co/mp3-preview/4b926e5459e68e85007155518bd13dc42eff3b46?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 9, 'type': 'track', 'uri': 'spotify:track:5gx3dMxQGJ1JDw5qHarRqp', 'is_local': False}, {'artists': [{'external_urls': {'spotify': 'https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1'}, 'id': '51DevdOxIJin6DB1FXJpD1', 'name': 'UZI', 'type': 'artist', 'uri': 'spotify:artist:51DevdOxIJin6DB1FXJpD1'}], 'disc_number': 1, 'duration_ms': 192694, 'explicit': False, 'external_urls': {'spotify': 'https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5'}, 'id': '4PUniKS3Cywu23xjdtoji5', 'is_playable': True, 'name': 'Outro', 'preview_url': 'https://p.scdn.co/mp3-preview/daa66ec952bed822128228eb026861b970dc4b8f?cid=d8a5ed958d274c2e8ee717e6a4b0971d', 'track_number': 10, 'type': 'track', 'uri': 'spotify:track:4PUniKS3Cywu23xjdtoji5', 'is_local': False}]}, 'copyrights': [{'text': '2021 M.O.B Entertainment Associated Label Of Govinet', 'type': 'C'}, {'text': '2021 M.O.B Entertainment Associated Label Of Govinet', 'type': 'P'}], 'external_ids': {'upc': '3616553578384'}, 'genres': [], 'label': 'M.O.B. Entertainment', 'popularity': 69}, None]}
+",1,1,10,457230
+"I need an overview of available content categories, including Music, Podcasts, and Audiobooks, each represented with a title, artwork, and URI details. Additionally, I want to retrieve a specific album's tracklist with metadata such as track names, play counts, and duration for up to 300 tracks, starting from the first track.","Explore Categories:
+Title: Music
+Artwork URL: https://i.scdn.co/image/ab67fb8200005caf474a477debc822a3a45c5acb
+URI: spotify:page:0JQ5DAqbMKFSi39LMRT0Cy
+
+Title: Podcasts
+Artwork URL: https://i.scdn.co/image/ab6765630000ba8a81f07e1ead0317ee3c285bfa
+URI: spotify:page:0JQ5DArNBzkmxXHCqFLx2J
+
+Title: Audiobooks
+Artwork URL: https://i.scdn.co/image/ab67fb8200005cafa6152f62518b4c3251858b21
+URI: spotify:page:0JQ5DAqbMKFETqK4t8f1n3
+
+Error: Album track data is missing or not in the expected format.
+",1,1,13,682032
